@@ -83,7 +83,7 @@
 <0081> Se esse for o caso...
 <0082> Este lindo oceano será totalmente arruinado.
 <0083> Nós não vamos deixar aquela gaivota fazer isso.
-<0084> Precisamos progeter o oceano.
+<0084> Precisamos proteger o oceano.
 <0085> Claro, Irmã. Nós iremos pôr um fim naquela gaivota.
 <0086> E então... Suguri vai colocar o biquíni.
 <0087> Sim!
@@ -92,7 +92,7 @@
 <0090> Então, o que aconteceu com aquela gaivota?
 <0091> Ela ficou pequenininha e voou para longe. Pato Don-...
 <0092> Irmã, não.
-<0093> Aliás, por que a Suguri está se escondendo alí?
+<0093> Aliás, por que a Suguri está se escondendo ali?
 <0094> Suguri, saia daí e venha ficar com a gente.
 <0095> Eu pensei que já estava ficando bem, mas já estou ficando envergonhada novamente.
 <0096> Não há motivos para se envergonhar. Como eu já havia dito, você é muito fofinha.
