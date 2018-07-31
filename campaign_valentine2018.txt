@@ -17,7 +17,7 @@
 <0015> *Resmunga*. Um monte de idiotas...\nAliás, onde estão o Blogueiro dos Doces e o Criador dos Doces?
 <0016> Eles não estão aqui.
 <0017> Eles nem estão no jogo ainda.
-<0018> Hoeee, devem haver circustâncias difíceis para eles não estarem aqui.
+<0018> Hoeee, devem haver circunstâncias difíceis para eles não estarem aqui.
 <0019> Bem... Fazer o quê. Certo então, será só nós 4 esse ano!\nUm de nós será o Rei dos Doces!
 <0020> O que nós vamos fazer exatamente?
 <0021> Hoje é o dia dos namorados...\nO dia em que vamos descobrir qual Deus dos Doces as pessoas veneram mais.
@@ -48,7 +48,7 @@
 <0046> Um deus dos doces que mostra não tolerar um doce...\nEu sabia que você não estava qualificada para ser ser um de nós, Guardiã.
 <0047> Poxa, Eu tenho que fazer algo, ou o mundo irá perder o pudim... O que eu devo fazer... O que eu devo fazer?!
 <0048> Espere, o que é isso que eu estou ouvindo...?
-<0049> Alguém está me chamando... Eu conheço esta voz... É você, <player>? Entendi!
+<0049> Alguém está me chamando... Eu conheço essa voz... É você, <player>? Entendi!
 <0050> <player>! Você poderia me ajudar a coletar chocolates?!
 <0051> Não posso fazer isso sozinha! Mas eu tenho certeza de que não terei problemas se você me ajudar...! Nós vamos quebrar o plano malicioso da Sweet Breaker!
 <0052> Poxa... Isso não pode ser verdade...
