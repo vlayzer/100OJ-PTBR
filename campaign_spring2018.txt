@@ -1,5 +1,5 @@
 
-<0000> Essa é uma história de um dos mundos paralelos de 100% Orange Juice que podem ou não exisitir.
+<0000> Essa é uma história de um dos mundos paralelos de 100% Orange Juice que podem ou não existir.
 <0001> Meu nome é Marc! Sou uma garota jovem vivaz que acabou de entrar na Academia Ebimanyou nessa primavera!
 <0002> Ainda estou me adaptando a minha nova vida escolar, porém eu adoro todos os dias com meus amigos.
 <0003> Que dia bom e quentinho que está hoje!
@@ -19,7 +19,7 @@
 <0017> Meu jogo favorito atualizou ontem à noite, e eu fiquei tipo, "Quem precisa de sono!", e fiquei jogando sem parar até agora.
 <0018> Até agora...?!
 <0019> Você ficou acordada a noite toda...?
-<0020> Sim... mas estou no clube de jogos, certo? Tudo fez parte das ativdades do clube, então você poderia dizer que eu estou tendo uma vida escolar bastante saudável!
+<0020> Sim... mas estou no clube de jogos, certo? Tudo fez parte das atividades do clube, então você poderia dizer que eu estou tendo uma vida escolar bastante saudável!
 <0021> É absolutamente nada saudável.
 <0022> Concordo plenamente.
 <0023> Eu ficarei bem. Isso nem se compara com o que eu já passei...
@@ -34,7 +34,7 @@
 <0032> Achei que tinha saído bem cedo de casa... O quê?
 <0033> Como pode ser tão tarde...?!
 <0034> É por que vocês duas ficaram tendo devaneios por muito tempo!
-<0035> Está correto. Nós estavamos absorvendo esse ótimo calor da primavera.
+<0035> Está correto. Nós estávamos absorvendo esse ótimo calor da primavera.
 <0036> É por que o sol está muito bom hoje...
 <0037> A culpa é de vocês mesmas! Desculpe, mas estou indo na frente!
 <0038> Não quero me atrasar também. Eu irei voando.
@@ -83,7 +83,7 @@
 <0081> O professor nem sequer tentou se esquivar! Mas se você receber um impacto de três garotas voando naquela velocidade...
 <0082> ...
 <0083> Isso foi meio inevitável, não foi? Tehe!
-<0084> Isso não é engrçado, Syura. O que podemos fazer agora...?
+<0084> Isso não é engraçado, Syura. O que podemos fazer agora...?
 <0085> Vocês três são mais esqueléticas do que eu imaginava.
 <0086> Ugyaaaaah! A cabeça fala!!
 <0087> Bem, eu sou um robô.
@@ -172,7 +172,7 @@
 <0170> Fufufu... Esse é o Corvo Azul, minha preciosa bicicleta. Com sua velocidade, nunca chegarei tarde na escola.
 <0171> Que legal.
 <0172> Hah hah hah, não é? Eu vou na frente. Vejo vocês por lá!
-<0173> P-Peat acho que você está mindo muito rápido!
+<0173> P-Peat acho que você está indo muito rápido!
 <0174> É Corvo Azul!
 <0175> Ah não.
 <0176> O que foi Syura?
