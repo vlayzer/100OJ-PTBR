@@ -13,7 +13,7 @@
 <0011> Cuidado, pessoal!.
 <0012> Isto irá acabar com você.
 <0013> Consegui essa carta boa para caramba!
-<0014> Fiquem impressonados, pessoal!
+<0014> Fiquem impressionados, marujos!
 <0015> Deixe eu mostrar o meu ás na manga.
 <0016> Vão pegá-los!
 <0017> Piratas são difíceis de serem mortos.
@@ -103,8 +103,8 @@
 <0101> Só precisa ser um vilão igual a mim.
 <0102> Nós jogamos sujo!
 <0103> Olhe e aprenda como piratas vivem suas vidas!
-<0104> Não existe nehuma lei que nos impeça de voar nos céus.
-<0105> Abaixar a âncora, pessoal!
+<0104> Não existe nenhuma lei que nos impeça de voar nos céus.
+<0105> Abaixar a âncora!
 <0106> Vamos pegar eles!
 <0107> Estamos aqui para roubar tudo.
 <0108> Vamos ir selvagemente.
@@ -138,7 +138,7 @@
 <0136> Grande magnum, fogo!!
 <0137> Você cheira igual a um pirata!
 <0138> Não facilitarei nem para pirralhos!
-<0139> Oh, Eu gosto de sua face. Realmente parece um verdadeiro vilão.
+<0139> Oh, Eu gosto da sua cara. Realmente parece um verdadeiro vilão.
 <0140> Esvazie a sacola agora!
 <0141> Alguém cheira a riquezas!
 <0142> Você pode ficar com esses, então tchau tchau!
@@ -155,4 +155,3 @@
 <0153> Troço barato.
 <0154> Kuwahahaha, não poderia ser melhor.
 <0155> Nem sequer pense em ir contra mim!
-
