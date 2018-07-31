@@ -17,7 +17,7 @@
 <0015> Jogue um jogo comigo.
 <0016> Um jogo?
 <0017> É chamado de jogo de tabuleiro. Eu peguei emprestado da Bruxa da Floresta.
-<0018> Ela me explicou que é mais divertido jogar com outras pessoas... Portanto, darei-lhe o privilégio de jogar comigo.
+<0018> Ela me explicou que é mais divertido jogar com outras pessoas... Portanto, te darei o privilégio de jogar comigo.
 <0019> Entendo. Ela tem um gosto estranho, tendo coisas assim.
 <0020> Ela também disse que as almas de garotas lendárias habitam esse jogo.
 <0021> Quem são essas garotas?
@@ -97,7 +97,7 @@
 <0095> Sim... mas ao menos isso foi bem divertido, então ficarei bem!
 <0096> Você é tão positiva... Agora, vamos continuar jogando.
 <0097> Claro!
-<0098> Nós enfretamos mulheres crescidas duas vezes em seguida.
+<0098> Nós enfrentamos mulheres crescidas duas vezes em seguida.
 <0099> Elas pareciam bastante legais. Elas parecem ser pessoas que possuem uma firme compreensão das coisas.
 <0100> Eu entendo esse sentimento. Mas tipo... sinto que existe algo diferente entre essas e as garotas anteriores.
 <0101> É aquilo, não é? Apelo Sexual.
@@ -133,7 +133,7 @@
 <0131> Ídolos...
 <0132> Ídolos...
 <0133> Elas não eram nada além de um pedaço de PF puro.
-<0134> É... simplesmente inrcível... não tenho outras palavras.
+<0134> É... simplesmente inrcível... até fiquei sem palavras.
 <0135> Miusaki, você está chorando?
 <0136> O quê...? Ah, sim, parece que estou. Talvez eu fiquei comovida... Repa, você está chorando também.
 <0137> Isso não pode estar acontecendo. Lágrimas estão saindo dos meus olhos sem parar.
