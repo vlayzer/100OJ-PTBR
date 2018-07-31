@@ -1,0 +1,165 @@
+
+< SHOP_LABEL_HOME >
+Início
+
+< SHOP_LABEL_CARDS >
+Cartas
+
+< SHOP_LABEL_CHARACTERS >
+Personagens
+
+< SHOP_LABEL_CHALLENGES >
+Desafios
+
+< SHOP_LABEL_FIELDS >
+Tabuleiros
+
+< SHOP_LABEL_HALLOWEEN >
+Dia das Bruxas
+
+< SHOP_LABEL_CHRISTMAS >
+Natal
+
+< SHOP_LABEL_MISC >
+Cosméticos
+
+< SHOP_LABEL_DLC >
+DLC
+
+< SHOP_LABEL_ALL >
+Todos
+
+< SHOP_LEVEL >
+Nível
+
+< SHOP_OFFLINE >
+Sem conexão com a Steam
+
+< SHOP_DLC_SYURANANAKO >
+Syura & Nanako
+
+< SHOP_DLC_SAKIKYOUSUKE >
+Saki & Kyousuke
+
+< SHOP_DLC_MIXED >
+Pacote Misturado
+
+< SHOP_DLC_KRILAKAE >
+Krila & Kae
+
+< SHOP_DLC_ALTEKYOKO >
+Alte & Kyoko
+
+< SHOP_DLC_SHAMSHERRY >
+Sham & Sherry
+
+< SHOP_DLC_BREAKERPACK >
+Pacote "Breaker"
+
+< SHOP_DLC_ACCELERATIONPACK >
+Pacote de Aceleração
+
+< SHOP_DLC_NATHTOMATOMIMYUU >
+Nath & Tomato + Mimyuu
+
+< SHOP_DLC_SUGURIHIMEWINTER >
+Suguri & Hime Inverno
+
+< SHOP_DLC_KIRIKONONAME >
+Kiriko & NoName
+
+< SHOP_DLC_STARTERVOICEPACK >
+Pacote de Vozes #1
+
+< SHOP_DLC_CEOREPARQUEMIUSAKI >
+Pacote das Bruxas
+
+< SHOP_DLC_COREVOICEPACK1 >
+Pacote de Vozes #2
+
+< SHOP_DLC_COREVOICEPACK2 >
+Pacote de Vozes #3
+
+< SHOP_DLC_YUKITOMOMORENEWAL >
+Pacote de renovação da Yuki & Tomomo
+
+< SHOP_DLC_TSIHTEQUILA >
+Tsih & Tequila
+
+< SHOP_TOOLTIP_HOME >
+Navegue pela loja com os ícones de categoria.
+
+< SHOP_TOOLTIP_CARDS >
+Compre pacotes de cartas e personagens que você já desbloqueou.
+
+< SHOP_TOOLTIP_CHARACTERS >
+Compre novos cosméticos para seus personagens.
+
+< SHOP_TOOLTIP_CHALLENGES >
+Use laranjas para comprar itens específicos a desafios, como caixas e novas cores de cabelo.
+
+< SHOP_TOOLTIP_FIELDS >
+Desbloqueie novos campos para jogar.
+
+< SHOP_TOOLTIP_HALLOWEEN >
+Desbloqueie acessórios de Dia das Bruxas.
+
+< SHOP_TOOLTIP_CHRISTMAS >
+Desbloqueie acessórios de natal.
+
+< SHOP_TOOLTIP_MISC >
+Desbloqueie itens para multiplayer ou novos cosméticos.
+
+< SHOP_TOOLTIP_DLC >
+Compre DLCs com dinheiro real.
+
+< SHOP_TOOLTIP_ALL >
+Veja todo o conteúdo da loja.
+
+< SHOP_CRATE_CONTENTS >
+~Conteúdos~
+
+< SHOP_CRATE_LOOT_NONE >
+Nenhum:
+
+< SHOP_CRATE_LOOT_STARS >
+Estrelas:
+
+< SHOP_CRATE_LOOT_HALLOWEEN >
+Acessório Dia das Bruxas:
+
+< SHOP_CRATE_LOOT_CHRISTMAS >
+Roupa de Natal:
+
+< SHOP_CRATE_LOOT_SUNGLASSES >
+Óculos de Sol:
+
+< SHOP_CRATE_LOOT_RADPOPPO >
+Poppo Radical:
+
+< SHOP_CRATE_LOOT_HOMEMARK >
+Marcador de Casa:
+
+< SHOP_CRATE_LOOT_POSE >
+Pose:
+
+< SHOP_CRATE_LOOT_HAIR >
+Cabelo:
+
+< SHOP_CRATE_LOOT_DICE >
+Dado:
+
+< SHOP_CRATE_LOOT_ORANGES >
+Laranjas:
+
+< SHOP_CRATE_LOOT_CHARACTER >
+Personagem:
+
+< SHOP_CRATE_LOOT_MYSTERY >
+???:
+
+< SHOP_FILTER_OWNED >
+Ocultar itens já obtidos
+
+[EOF]
+

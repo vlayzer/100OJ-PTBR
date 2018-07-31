@@ -1,0 +1,34 @@
+
+<0000> Bora lá capitão!
+<0001> Aqui vamos nós!
+<0002> É hora do show!
+<0003> Bora lutar!
+<0004> Deixaremos tu orgulhoso, Capitão!
+<0005> Bora lá!
+<0006> Desafio aceito!
+<0007> É disso que eu estou falando!
+<0008> A presa encontra o caçador!
+<0009> Eeeey!
+<0010> Shaah!
+<0011> Kieeey!
+<0012> Deeey!
+<0013> Caramba!
+<0014> Gyah!
+<0015> Guwah!
+<0016> Guoh!
+<0017> Doeu para caramba!
+<0018> Agyaah!
+<0019> Hieeeh!
+<0020> Gyoooh!
+<0021> Você errou, chapa!
+<0022> Nem chegou perto!
+<0023> Calma, Calma!
+<0024> Hieeh!
+<0025> Eu consegui, Capitão!
+<0026> Saqueamos eles, Capitão!
+<0027> Hyahoy!
+<0028> Yo ho ho!
+<0029> Capitão～
+<0030> Sinto muito... Capitão...
+<0031> Eu falhei!
+<0032> Ah... Deus...

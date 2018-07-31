@@ -1,0 +1,96 @@
+
+< GAME_MESSAGE_YOURTURN >
+Sua vez.
+
+< GAME_MESSAGE_OPPONENTTURN >
+Vez do oponente.
+
+< GAME_MESSAGE_CHALLENGEBATTLE >
+Desafiar este jogador para uma batalha?
+
+< GAME_MESSAGE_REVIVETEAMMATE >
+Reanimar este aliado? (<revivecost> estrelas)
+
+< GAME_MESSAGE_CHOOSECARDUSE >
+Escolha uma carta para usar.
+
+< GAME_MESSAGE_CHOOSECARDDISCARD >
+Escolha uma carta para descartar.
+
+< GAME_MESSAGE_BOSSAPPEARED >
+Um chefe apareceu!
+
+< GAME_MESSAGE_RAIDBOSS_APPEAR >
+<raidboss> está aqui!
+
+< GAME_MESSAGE_RAIDBOSS_UNLOCK >
+<raidboss> agora pode usar <ability>!
+
+< GAME_MESSAGE_RAIDBOSS_REMOVE >
+<raidboss> não irá mais usar <ability>.
+
+< GAME_MESSAGE_RAIDBOSS_USE_ABILITY >
+<raidboss> está ativando <ability>!
+
+< GAME_MESSAGE_RAIDBOSS_ENRAGE >
+<raidboss> se enfureceu!
+
+< GAME_MESSAGE_TURNSKIP >
+Vez pulada.
+
+< GAME_MESSAGE_CHOOSENORMA >
+Escolha a próxima norma.
+
+< GAME_MESSAGE_NORMANOTACHIEVED >
+A norma ainda não foi concluída.
+
+< GAME_MESSAGE_CARDDRAWN >
+Carta comprada.
+
+< GAME_MESSAGE_TRAPSET >
+Carta armadilha colocada.
+
+< GAME_MESSAGE_TRAPTRIGGER >
+Carta armadilha ativada.
+
+< GAME_MESSAGE_CARDEFFECTSTOCKED >
+Efeito de carta estocado.
+
+< GAME_MESSAGE_STOCKEFFECT >
+Efeito de estoque ativado.
+
+< GAME_MESSAGE_FIELDEFFECT >
+Efeito de campo ativado.
+
+< GAME_MESSAGE_REVIVESUCCESS >
+Reanimou!
+
+< GAME_MESSAGE_REVIVEFAIL >
+Falhou em reanimar...
+
+< GAME_MESSAGE_CHOOSETARGET >
+Escolha o jogador alvo.
+
+< GAME_MESSAGE_CHOOSEMOVEPANEL >
+Selecione para onde se mover.
+
+< GAME_MESSAGE_HOMESTOP >
+Você quer parar em casa?
+
+< GAME_MESSAGE_HEALING >
+Recuperação!
+
+< GAME_MESSAGE_EVENTPREFIX >
+
+< GAME_MESSAGE_EVENTSUFFIX >
+!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
+Frenezi de Chocolates!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_SUCCESS >
+Chocolate guardado!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
+Sem chocolates o suficiente para guardar...
+

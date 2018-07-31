@@ -1,0 +1,141 @@
+
+<0000> Certo.
+<0001> Aqui!
+<0002> Jogando por aí...
+<0003> Ei!
+<0004> Acho que vou usar isto.
+<0005> Acho que vou fazer isso.
+<0006> Vou escolher isto.
+<0007> Eu escolho isto.
+<0008> Armadilha colocada.
+<0009> Ok.
+<0010> É uma armadilha.
+<0011> Talvez assim?
+<0012> Estou usando isto.
+<0013> Não posso perder esta partida.
+<0014> Vou fazer isto.
+<0015> Isto!
+<0016> Acelerador!
+<0017> Ainda bem...
+<0018> Certo, posso me mover novamente.
+<0019> Certo então, irei novamente.
+<0020> Aqui é onde começa.
+<0021> O que? Isso não era para acontecer...
+<0022> Poxa.
+<0023> O quê?
+<0024> Ah não.
+<0025> Vamos fazer isso.
+<0026> Yah!
+<0027> Hah!
+<0028> Tome!
+<0029> Ai.
+<0030> Aii.
+<0031> Wah.
+<0032> Wawah.
+<0033> Uuufa...
+<0034> Me sinto mais quente.
+<0035> Eu me recuperei.
+<0036> Muito bom.
+<0037> Estou sendo assoprada para longe.
+<0038> Para onde estou indo?
+<0039> Estou voando.
+<0040> Teleportando.
+<0041> Aiiii.
+<0042> Preciso descansar um pouco...
+<0043> Poxa, me atrapalhei.
+<0044> *Suspiro*...
+<0045> É hora de lutar.
+<0046> Se você ficar em meu caminho...
+<0047> Vou atrás de você.
+<0048> Estamos lutando.
+<0049> Você espera uma batalha?
+<0050> Certo, vamos lá.
+<0051> Eu não vou perder.
+<0052> Você quer lutar comigo?
+<0053> Hah!
+<0054> Vou te pegar!
+<0055> Yah!
+<0056> Tah!
+<0057> Ai.
+<0058> Uuu.
+<0059> Aiii.
+<0060> Guhh.
+<0061> Hmm...
+<0062> Uwaah.
+<0063> Ei agora.
+<0064> Poxa...
+<0065> Não pode me tocar.
+<0066> Eu desviei.
+<0067> Passou perto.
+<0068> Uou.
+<0069> Ufa, eu consegui.
+<0070> Estou bem.
+<0071> Parece que venci.
+<0072> Fiz o meu melhor.
+<0073> Hmm...
+<0074> Hauu.
+<0075> Você é forte.
+<0076> Você é incrível.
+<0077> Elas estão brilhando.
+<0078> Fico feliz.
+<0079> Muito bem.
+<0080> Tantas delas...
+<0081> Não, minhas estrelas...
+<0082> É...
+<0083> Minhas estrelas...
+<0084> Mhmm...
+<0085> Uma armadilha?!
+<0086> Eu nunca tinha notado...
+<0087> Não acredito.
+<0088> Isso não é...
+<0089> Um grandão apareceu...
+<0090> Perigo se aproxima...
+<0091> É melhor eu ter cuidado.
+<0092> Um bem forte apareceu.
+<0093> Estou coletando estrelas.
+<0094> Eu escolho estrelas.
+<0095> Vou conseguir bastantes estrelas.
+<0096> Estrelas...
+<0097> Acho que vou batalhar.
+<0098> Vou conseguir vitórias.
+<0099> Eu escolho lutar.
+<0100> Certo, vou vencer.
+<0101> Ok, é bom jogar com você.
+<0102> Você pode contar comigo.
+<0103> Vamos fazer nosso melhor.
+<0104> Certo então.
+<0105> Não vou me segurar.
+<0106> Vamos indo.
+<0107> Começou.
+<0108> O que eu devo fazer?
+<0109> Bem jogado.
+<0110> Ufa, nós conseguimos vencer.
+<0111> Hehheh, eu fiz um bom trabalho, não fiz?
+<0112> Nós ganhamos!
+<0113> Nós conseguimos algo novo.
+<0114> É um novo item.
+<0115> Não tinha visto este antes.
+<0116> Você conseguiu algo bom?
+<0117> Ok.
+<0118> Isto é bom.
+<0119> É.
+<0120> Não.
+<0121> Mhmm...
+<0122> Bom trabalho.
+<0123> Hm?
+<0124> Ok, vamos.
+<0125> Seja um número bom.
+<0126> Vamos fazer isso.
+<0127> Oi.
+<0128> Hmm.
+<0129> Legal.
+<0130> Isso é incrível.
+<0131> Poxa...
+<0132> Vamos brincar, Hime.
+<0133> É uma pequena criança...
+<0134> Aqui vou eu, Sora.
+<0135> Estou passando por tudo!
+<0136> O deus do... pudim...
+<0137> Star Breaker... eu irei pará-la.
+<0138> Uou, é um castelo enorme...
+<0139> Não vou deixar você fazer o que quiser.

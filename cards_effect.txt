@@ -1,0 +1,33 @@
+< CARD_HYPER_ARUSCRAMBLE_EFFECT >
+name=Presente do Papai Noel
+descr=Esta unidade não pode desafiar outros para batalha.
+
+< CARD_NATH_EFFECT >
+name=Extensão Ativa
+descr=Por cada estoque, ganhe +1 ATK/DEF e -1 EVD.
+
+< CARD_NONAME_EFFECT >
+name=Cabeça em um Pote
+descr=Atributos básicos viram -1 ATK/DEF/EVD. Removido ao reanimar ou chegando em um painel de casa.
+
+< CARD_AMPATK_EFFECT >
+name=Melhoria no ATK
+descr=Ganhe +1 ATK.
+
+< CARD_AMPDEF_EFFECT >
+name=Melhoria na DEF
+descr=Ganhe +1 na DEF.
+
+< CARD_AMPEVD_EFFECT >
+name=Melhoria no EVD
+descr=Ganhe +1 em EVD.
+
+< CARD_AMPMOV_EFFECT >
+name=Melhoria no Movimento
+descr=Ganhe +1 para o total de movimento.
+
+< CARD_HYPER_SWEETEATER_EFFECT >
+name=Devoradora de Doces
+descr=Atributos base mudam para +3 ATK e +0 DEF/EVD. Removido ao reanimar.
+
+[EOF]

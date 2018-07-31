@@ -1,0 +1,17 @@
+
+< CHARACTERSELECT_QP >
+Uma garota que faz tudo por pudim. O personagem mais básico que pode se ajustar em qualquer situação. Dificuldade Mediana.
+
+< CHARACTERSELECT_SUGURI >
+Um personagem no estilo "Tudo ou Nada" que foca em evasão para sua sobrevivência. Dificuldade Experiente.
+
+< CHARACTERSELECT_MARC >
+Uma garota que adora voar pelos céus. Bom ATK e DEF. Dificuldade Mediana.
+
+< CHARACTERSELECT_KAI >
+Um cara comum que perdeu sua carteira. Um personagem de batalha bem balanceado. Dificuldade Fácil.
+
+< CHARACTERSELECT_DLC >
+Nota: Você pode selecionar um personagem de DLC para jogar depois na tela de criação de baralho(deck).
+
+[EOF]

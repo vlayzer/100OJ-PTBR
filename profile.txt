@@ -1,0 +1,129 @@
+
+< PROFILE_LABEL_PLAYINFO >
+Info. de Jogo
+
+< PROFILE_LABEL_BINDER >
+Álbum
+
+< PROFILE_LABEL_COLLECTION >
+Número de Cartas
+
+< PROFILE_LABEL_AVATAR >
+Avatar
+
+< PROFILE_STARS >
+Estrelas
+
+< PROFILE_CARDS >
+Cartas
+
+< PROFILE_NODATA >
+Sem informação
+
+< PROFILE_CARDSORT_TYPE >
+Tipo
+
+< PROFILE_CARDSORT_NAME >
+Nome
+
+< PROFILE_CARDSORT_RARITY >
+Raridade
+
+< PROFILE_CARDS_UNIT >
+Cartas de Unidade
+
+< PROFILE_CARDS_BOOST >
+Cartas de "Boost"
+
+< PROFILE_CARDS_BATTLE >
+Cartas de "Battle"
+
+< PROFILE_CARDS_TRAP >
+Cartas "Trap"
+
+< PROFILE_CARDS_EVENT >
+Cartas de "Event"
+
+< PROFILE_CARDS_MISC>
+Outras Cartas
+
+< PROFILE_PLAYCOUNT >
+Vezes Jogadas:
+
+< PROFILE_CARDSCOLLECTED >
+Porcentagem de Cartas:
+
+< PROFILE_GAMEPROGRESS >
+Progresso do Jogo:
+
+< PROFILE_PLAYTIME >
+Tempo de Jogo:
+
+< PROFILE_PLAYTIME_HOURS >
+h
+
+< PROFILE_PLAYTIME_MINUTES >
+m
+
+< PROFILE_PLAYTIME_SECONDS >
+s
+
+< PROFILE_BREAKERPROGRESS >
+Pacote "Breaker":
+
+< PROFILE_MIXEDPACKCARDS >
+Pacote Misturado
+
+< PROFILE_ACCELERATIONPACKCARDS >
+Pacote de Aceleração
+
+< PROFILE_COMMUNITYCARDPACKCARDS >
+Pacote de Cartas da Comunidade
+
+< PROFILE_SEASONALEVENTCARDS >
+Cartas de Eventos Sazonais
+
+< PROFILE_AVATAR_CHANGECHARACTER >
+Mudar Personagem
+
+< PROFILE_AVATAR_CHANGECOSMETICS >
+Mudar Cosméticos
+
+< PROFILE_AVATAR_POSE >
+Pose
+
+< PROFILE_AVATAR_UNITCOLOR >
+Cor da Unidade
+
+< PROFILE_AVATAR_HAIRCOLOR >
+Cor de Cabelo
+
+< PROFILE_AVATAR_ACCESSORY >
+Acessório
+
+< PROFILE_AVATAR_DICE >
+Dado
+
+< PROFILE_AVATAR_HOMEMARK >
+Casa
+
+< PROFILE_AVATAR_SAVE >
+Salvar
+
+< PROFILE_AVATAR_LOAD >
+Carregar
+
+< PROFILE_HEADER_PLAYINFO >
+Informação dos Jogos
+
+< PROFILE_HEADER_CARDTYPE >
+Tipos de Carta
+
+< PROFILE_HEADER_CARDSCOLLECTED >
+Coletadas
+
+< PROFILE_HEADER_CARDSTOTAL >
+Total
+
+[EOF]
+

@@ -1,0 +1,12 @@
+
+< GAME_SYSTEM_ROLLTOREVIVE >
+Ou maior para se reanimar!
+
+< GAME_SYSTEM_WINNERSCREEN_STARS >
+Estrelas
+
+< GAME_SYSTEM_WINNERSCREEN_WINS >
+Vitórias
+
+[EOF]
+

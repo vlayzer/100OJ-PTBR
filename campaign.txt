@@ -1,0 +1,177 @@
+
+< CAMPAIGN_QP_ONE >
+Episódio da QP #1
+
+< CAMPAIGN_QP_TWO >
+Episódio da QP #2
+
+< CAMPAIGN_QP_THREE >
+Episódio da QP #3
+
+< CAMPAIGN_QP_FOUR >
+Episódio da QP #4
+
+< CAMPAIGN_QP_FIVE >
+Episódio da QP #5
+
+< CAMPAIGN_QP_FINAL >
+Episódio Final da QP
+
+< CAMPAIGN_SUGURI_ONE >
+Episódio da Suguri #1
+
+< CAMPAIGN_SUGURI_TWO >
+Episódio da Suguri #2
+
+< CAMPAIGN_SUGURI_THREE >
+Episódio da Suguri #3
+
+< CAMPAIGN_SUGURI_FOUR >
+Episódio da Suguri #4
+
+< CAMPAIGN_SUGURI_FIVE >
+Episódio da Suguri #5
+
+< CAMPAIGN_SUGURI_FINAL >
+Episódio Final da Suguri
+
+< CAMPAIGN_MARC_ONE >
+Episódio da Marc #1
+
+< CAMPAIGN_MARC_TWO >
+Episódio da Marc #2
+
+< CAMPAIGN_MARC_THREE >
+Episódio da Marc #3
+
+< CAMPAIGN_MARC_FOUR >
+Episódio da Marc #4
+
+< CAMPAIGN_MARC_FIVE >
+Episódio da Marc #5
+
+< CAMPAIGN_MARC_FINAL >
+Episódio Final da Marc
+
+< CAMPAIGN_KAI_ONE >
+Episódio do Kai #1
+
+< CAMPAIGN_KAI_TWO >
+Episódio do Kai #2
+
+< CAMPAIGN_KAI_THREE >
+Episódio do Kai #3
+
+< CAMPAIGN_KAI_FOUR >
+Episódio do Kai #4
+
+< CAMPAIGN_KAI_FIVE >
+Episódio do Kai #5
+
+< CAMPAIGN_KAI_FINAL >
+Episódio Final do Kai
+
+< CAMPAIGN_EXTRA_ONE >
+A Noite das Garotinhas Animais
+
+< CAMPAIGN_EXTRA_TWO >
+A Batalha dos Ciborgues
+
+< CAMPAIGN_EXTRA_THREE >
+Crepúsculo dos Pilotos
+
+< CAMPAIGN_EXTRA_FOUR >
+A Misteriosa Odisséia Espacial 
+
+< CAMPAIGN_EXTRA_FIVE >
+Inferno de Tomomo
+
+< CAMPAIGN_STARBREAKER_ONE >
+Episódio da Star Breaker #1
+
+< CAMPAIGN_STARBREAKER_TWO >
+Episódio da Star Breaker #2
+
+< CAMPAIGN_STARBREAKER_THREE >
+Episódio da Star Breaker #3
+
+< CAMPAIGN_STARBREAKER_FOUR >
+Episódio da Star Breaker #4
+
+< CAMPAIGN_STARBREAKER_FIVE >
+Episódio da Star Breaker #5
+
+< CAMPAIGN_STARBREAKER_FINAL >
+Episódio Final da Star Breaker
+
+< CAMPAIGN_SWEETBREAKER_ONE >
+Episódio da Sweet Breaker #1
+
+< CAMPAIGN_SWEETBREAKER_TWO >
+Episódio da Sweet Breaker #2
+
+< CAMPAIGN_SWEETBREAKER_THREE >
+Episódio da Sweet Breaker #3
+
+< CAMPAIGN_SWEETBREAKER_FOUR >
+Episódio da Sweet Breaker #4
+
+< CAMPAIGN_SWEETBREAKER_FIVE >
+Episódio da Sweet Breaker #5
+
+< CAMPAIGN_SWEETBREAKER_FINAL >
+Episódio Final da Sweet Breaker
+
+< CAMPAIGN_BREAKER_EXTRA >
+Caos dos Deuses dos Doces
+
+< CAMPAIGN_MIUCEORE_ONE >
+Poder Feminino Episódio #1
+
+< CAMPAIGN_MIUCEORE_TWO >
+Poder Feminino Episódio #2
+
+< CAMPAIGN_MIUCEORE_THREE >
+Poder Feminino Episódio #3
+
+< CAMPAIGN_MIUCEORE_FOUR >
+Poder Feminino Episódio #4
+
+< CAMPAIGN_MIUCEORE_FIVE >
+Poder Feminino Episódio #5
+
+< CAMPAIGN_MIUCEORE_SIX >
+Poder Feminino Episódio #6
+
+< CAMPAIGN_MIUCEORE_SEVEN >
+Poder Feminino Episódio #7
+
+< CAMPAIGN_MIUCEORE_EIGHT >
+Poder Feminino Episódio #8
+
+< CAMPAIGN_MIUCEORE_NINE >
+Poder Feminino Episódio #9
+
+< CAMPAIGN_MIUCEORE_FINAL >
+Poder Feminino - Episódio Final
+
+< CAMPAIGN_CHRISTMAS_2017 >
+Festa de Natal dos Warudas
+
+< CAMPAIGN_DIFFICULTY_CASUAL >
+Performance reduzida para todas as CPUs.
+
+< CAMPAIGN_DIFFICULTY_NORMAL >
+Nenhum ajuste nas CPUs.
+
+< CAMPAIGN_DIFFICULTY_ORIGINAL >
+A performance das CPUs é customizada individualmente.
+
+< CAMPAIGN_DIFFICULTY_EXTREME >
+Todas as CPUs ganham um bônus na performance.
+
+< CAMPAIGN_RETURN >
+Retornar
+
+[EOF]
+

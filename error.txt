@@ -1,0 +1,8 @@
+< ERROR_CAPTION >
+Erro
+
+< ERROR_SAVE_TOO_NEW >
+O arquivo salvo parece ser de uma versão mais atualizada do jogo, por favor atualize seu jogo para continuar jogando. O programa agora irá fechar
+
+[EOF]
+

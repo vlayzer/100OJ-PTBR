@@ -1,0 +1,141 @@
+
+<0000> Estou jogando o dado!
+<0001> Aqui!
+<0002> Vai!
+<0003> Me dê um número bom!
+<0004> É isso!
+<0005> Irei te mostrar!
+<0006> Vou usar uma carta!
+<0007> Certo, usarei esta!
+<0008> He he he, Vou colocar uma armadilha aqui.
+<0009> He he ha, é uma armadilha.
+<0010> Quem irá cair nesta?
+<0011> *Esgueira, esgueira*...
+<0012> Estou usando esta aqui!
+<0013> Vou vencer a batalha com isto!
+<0014> Uma carta de batalha!
+<0015> Esta batalha é minha!
+<0016> Ativar Modo Hiper!
+<0017> Fui reanimada!
+<0018> Está tudo bem novamente!
+<0019> É hora da vingança.
+<0020> Ainda não vou desistir.
+<0021> Pooxa, não foi bom.
+<0022> Ah não...
+<0023> Heeeh, sem reanimar desta vez...
+<0024> Uuuaaaaa...
+<0025> Estou atacando!
+<0026> Tome!
+<0027> Ataque!
+<0028> Tome isso!
+<0029> Ai...
+<0030> Isso dói!
+<0031> Kewww!
+<0032> Aiiii.
+<0033> Isso é tão bom...
+<0034> Ufa...
+<0035> Me sinto melhor.
+<0036> Acho que posso continuar.
+<0037> P-para onde estou indo?
+<0038> Estou sendo soprada para longe...
+<0039> Não não não não nãão!
+<0040> Me sinto tonta!
+<0041> Waaaaaaaan...
+<0042> Kewww...
+<0043> Eu caí...
+<0044> Waaaaww...
+<0045> Vou te pegar!
+<0046> Batalhe comigo!
+<0047> Você está vulnerável!
+<0048> Lute comigo.
+<0049> Começou!
+<0050> Pode vir!
+<0051> Nossa, nós vamos lutar?
+<0052> Não perderei para você!
+<0053> Tome iiiisso!
+<0054> Desse jeito!
+<0055> Ataque da QP!
+<0056> Eeeeei!
+<0057> Aii.
+<0058> Ah não.
+<0059> Isso dói!
+<0060> Pare com isso!
+<0061> Aaaaaaah.
+<0062> Boohoo...
+<0063> Isso doeu tanto!
+<0064> Geh!
+<0065> Ei, cuidado!
+<0066> Isso não irá funcionar!
+<0067> Pulo.
+<0068> Veja minha linda esquiva!
+<0069> Eu ganhei!
+<0070> Ganhei! Ganhei!
+<0071> Consegui!
+<0072> E-hem, não sou demais?
+<0073> E-eu perdi...
+<0074> Gueeee...
+<0075> Hieeee...
+<0076> Você é terrível...
+<0077> Vou ficar com todas!
+<0078> Estrelas tinindo!
+<0079> Tão gostoso!
+<0080> Estou tão feliz!
+<0081> M-minhas estrelas...
+<0082> Gyaaaah!
+<0083> Hieeee...
+<0084> Aaaaah!
+<0085> O quê? Uma armadilha?
+<0086> A-aquilo foi uma armadilha?
+<0087> Droga... Eu caí nela...
+<0088> Uhii... Não acredito que pisei numa armadilha...
+<0089> A-aquele cara parece bem forte...
+<0090> *Engole*, aquilo é assustador...
+<0091> Fueee, aí vem um bem forte...
+<0092> Sinto algo perigoso se aproximando...
+<0093> Estarei a nadar em estrelas!
+<0094> Eu quero ouvir as estrelas tinindo.
+<0095> Estou coletando estrelas!
+<0096> Muitas estrelas, muitos sonhos!
+<0097> Vou derrubar todos!
+<0098> É um rodízio de batalha!
+<0099> Preste atenção quem ficar na minha frente!
+<0100> Vou vencer todas as batalhas, e a partida!
+<0101> Parece que sou necessária. Conte comigo!
+<0102> QP está aqui!
+<0103> Sou um Spitz Alemão. Algum problema com isso?
+<0104> Eu sabia que você iria me escolher!
+<0105> Estou dando o meu melhor!
+<0106> Aqui vou eu!
+<0107> Estou animada e preparada para ir!
+<0108> Estou animada!
+<0109> Sim! A vitória é minha!
+<0110> Vê como eu sou boa? Eu ganhei!
+<0111> Me dê pudim como recompensa!
+<0112> Ganhei! Ganhei!
+<0113> Chegou algo novo!
+<0114> É uma coisa nova e brilhante!
+<0115> Isto vai me deixar mais poderosa!
+<0116> Eba, Consegui um item novo!
+<0117> Ok.
+<0118> Bom.
+<0119> Sim.
+<0120> Não.
+<0121> Como pode isso...
+<0122> Uhul!
+<0123> Sério?
+<0124> Vamos lá.
+<0125> Vamos ver o que eu vou conseguir.
+<0126> Aqui vou eu!
+<0127> Olá!
+<0128> O que eu faço...
+<0129> Legal!
+<0130> Uau, isto é incrível...
+<0131> Ah não...
+<0132> O que, Yu-Yuki...
+<0133> Syura, já não está perto do seu prazo final?
+<0134> Eu sinto que nós precisamos lutar por algo...
+<0135> É um tinir ótimo.
+<0136> Eu vou proteger o Pudim!
+<0137> P-papai noel?! É mesmo o verdadeiro?
+<0138> Ei! Eu sou uma garota!
+<0139> Pudim!

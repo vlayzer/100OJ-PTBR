@@ -1,0 +1,137 @@
+
+<0000> Aqui!
+<0001> Aqui vou eu!
+<0002> Vai!
+<0003> Me dê um número bom!
+<0004> Certo, Vou fazer isso!
+<0005> Isto trará minha vitória!
+<0006> Vou usar uma carta.
+<0007> É isso!
+<0008> Está na hora de uma armadilha.
+<0009> Aqui está uma armadilha.
+<0010> Eu vou colocar isto aqui.
+<0011> Tenho certeza de que isso vai funcionar.
+<0012> Ajude-me a vencer!
+<0013> Me dê um pouco de poder!
+<0014> Heh-heh-heh, a vitória será minha!
+<0015> Deixe eu te mostrar o que posso fazer!
+<0016> Este é o privilégio do protagonista!
+<0017> Fui reanimado!
+<0018> Ainda não acabei.
+<0019> É somente o início.
+<0020> Ainda posso continuar.
+<0021> Como um protagonista falha em voltar?!
+<0022> Isto não é real...
+<0023> Você só pode estar brincando comigo!
+<0024> Mas que... droga...
+<0025> Aqui!
+<0026> Desse jeito!
+<0027> Tome isso!
+<0028> Tome!
+<0029> Caramba!
+<0030> Guh!
+<0031> Isso dói!
+<0032> Urrh...
+<0033> Salvo pelo gongo.
+<0034> Fui curado...
+<0035> Ufa...
+<0036> Isso passou bem perto.
+<0037> Teleporte!
+<0038> Estou voando!
+<0039> Para onde estou indo?
+<0040> Nããão!
+<0041> Guhaah!
+<0042> Isso não pode ser verdade...
+<0043> Já não aguento mais...
+<0044> Eu desisto.
+<0045> Lute comigo!
+<0046> Vamos batalhar!
+<0047> O primeiro a agir vence!
+<0048> Irei primeiro!
+<0049> Você quer lutar? Por mim tudo bem.
+<0050> Desafio Aceito.
+<0051> Procurando por uma luta?
+<0052> Vamos lá!
+<0053> Tome isso!
+<0054> Acabarei com você!
+<0055> Coma meu punho!
+<0056> Toma isso!!
+<0057> Aii.
+<0058> Isso doeu!
+<0059> Você é muito bom.
+<0060> Aii.
+<0061> Gaaargh!
+<0062> Uoooogh!
+<0063> Isso dói!
+<0064> Aaiii.
+<0065> Nossa.
+<0066> Você não pode me acertar.
+<0067> Olhe só meus movimentos!
+<0068> Muito devagar para mim.
+<0069> Minha vitória é simplesmente natural.
+<0070> Você sabe que eu sou o protagonista.
+<0071> Foi uma batalha boa.
+<0072> Bem, era isso que eu esperava.
+<0073> Mas que droga!
+<0074> Maldição...
+<0075> Eu não acredito nisso!
+<0076> Eu perdi? Não pode ser!
+<0077> Uhul! Consegui um Bônus!
+<0078> Estou rolando em dinheiro hoje!
+<0079> Agora estou muito mais perto de minha vitória!
+<0080> Caramba! Isto é o melhor!
+<0081> Minhas estrelas...!
+<0082> Droga...
+<0083> Depois de todo aquele esforço para coletá-las...
+<0084> Eu ferrei tudo!
+<0085> Ah droga!
+<0086> Era uma armadilha?!
+<0087> M-mas que raios?!
+<0088> Isso não pode estar acontecendo...
+<0089> Sinto um oponente forte.
+<0090> Então eles vieram...
+<0091> Posso sentir uma tempestade chegando...
+<0092> Certo... Tenho que dar tudo de mim.
+<0093> As estrelas são todas minhas!
+<0094> Eu escolho estrelas, claro.
+<0095> Estrelas, será!
+<0096> Eu escolherei estrelas!
+<0097> Tudo que preciso é de batalhas!
+<0098> A batalha é o romance de um homem.
+<0099> Todas as vitórias são minhas!
+<0100> Meus punhos irão cuspir fogo!
+<0101> Conte comigo!
+<0102> Ei. Legal jogar com você.
+<0103> Tudo bem, é a minha vez de ir!
+<0104> Pode deixar comigo!
+<0105> Vamos ver como vai ser esta partida.
+<0106> Acho que não vou me segurar.
+<0107> Então já começou.
+<0108> Farei meu melhor.
+<0109> Tomem isso! Eu sou o vencedor!
+<0110> Tomem isso! Eu consegui!
+<0111> Ufa, consegui fazer isso.
+<0112> Foi uma ótima partida.
+<0113> Oh eu consegui algo novo.
+<0114> Eu consegui um item novo!
+<0115> Oh, eu não tinha este.
+<0116> Certo, esta foi uma puxada muito boa.
+<0117> Deixe comigo.
+<0118> Isso é bom.
+<0119> Uhul!
+<0120> Não.
+<0121> Droga!
+<0122> Isso aí!
+<0123> Mas o quê?!
+<0124> Aqui vou eu!
+<0125> Vamos ver que número vou conseguir.
+<0126> Vai!
+<0127> E aí!
+<0128> Hmm...
+<0129> Isso é incrível.
+<0130> Ah meu deus!
+<0131> Droga...
+<0132> Te encontrei!
+<0133> Uma moça bonita...?!
+<0134> Você não é muito velha para se vestir assim?
+<0135> Um robô gigante?! Isso é incrível!

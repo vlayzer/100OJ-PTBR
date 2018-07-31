@@ -1,0 +1,161 @@
+
+<0000> Nora!
+<0001> Nanora!
+<0002> Ryaah!
+<0003> Vou fazer isso!!
+<0004> Carta!!
+<0005> Aqui vou eu!
+<0006> Yaaaay!
+<0007> Nyafufufu!
+<0008> Armadilha..
+<0009> Vou colocar isto aqui.
+<0010> *Esqueira, esqueira*
+<0011> Nyuhihi!
+<0012> Carta de batalha.
+<0013> Vou chutar sua bunda bem forte!
+<0014> Acabarei com você.
+<0015> Estou aumentando meus poderes.
+<0016> Vou quietamente ficar invsível.
+<0017> Estou de volta.
+<0018> Não posso pensar em perder.
+<0019> Nyafufu! Você ainda não acabou comigo.
+<0020> Posso finalmente me mexer.
+<0021> Por quêêê!
+<0022> Auu.
+<0023> Mas que droga.
+<0024> Pigyah!
+<0025> Ataque!
+<0026> Assiim!
+<0027> Uryaah!
+<0028> Tome isso!
+<0029> Ai-ai-ai!
+<0030> Ah poxa.
+<0031> Guee.
+<0032> Kyuwaah!
+<0033> Recuperando.
+<0034> Eu vou me recuperar um pouco.
+<0035> Me sinto viva novamente.
+<0036> Nyufufufufufufu!
+<0037> Araah...
+<0038> Para onde estou indo?
+<0039> É um teleporte.
+<0040> Awawawawa.
+<0041> Poxa, mas que droga!
+<0042> Gefun!
+<0043> Pigyaamoh...
+<0044> Nyuuu...
+<0045> Aí vem uma batalha bem fácil.
+<0046> Está preparado para perder?
+<0047> A batalha se inicia agora!
+<0048> Eu irei lutar!
+<0049> Oh? Você quer lutar comigo?
+<0050> Certo! Bora lá!
+<0051> Nyuhihi!
+<0052> Você tem coragem de me enfrentar.
+<0053> Nyuraah!
+<0054> Irei te esmagar!
+<0055> Vou te amassar bem direitinho!
+<0056> Nyahhaah!
+<0057> Pugyah!
+<0058> Nywaah!
+<0059> Isso doeu.
+<0060> Pare com isso!
+<0061> Pigyaamoh!!
+<0062> Doeu para caramba!!
+<0063> O que diabos você está fazendo comigo?!
+<0064> Guhaah.
+<0065> Não vai me acertar.
+<0066> Nyuhihi! Sua mira é uma droga!
+<0067> Nya! Passou bem perto!
+<0068> Rapidamente.
+<0069> Obaaaa! Eu consegui!
+<0070> Me sinto ótima.
+<0071> Facinho facinho.
+<0072> Eu venci.
+<0073> Ubegeeh.
+<0074> Isso foi horrível pra caramba.
+<0075> Nueeeeeh...
+<0076> Bue...
+<0077> Obaa! Me dê me dê!
+<0078> Me dê mais, muito mais!
+<0079> Estrelas!
+<0080> Olhe só quantos brilhozinhos!
+<0081> Higyaah!
+<0082> Gyowaah!
+<0083> Acabei ferrando tudo!!
+<0084> Estreeeeeeelas!
+<0085> Maldito foi quem colocou isso aqui!!
+<0086> Esse lugar é uma droga! Vou sair daqui!
+<0087> É uma armadilha?!
+<0088> Droga!
+<0089> Nyuwaah! Tem algo aquu...
+<0090> Mhm, Estou tendo pressentimentos ruins.
+<0091> Sinto que vai ocorrer uma enorme batalha.
+<0092> Isso realmente vai ser chato de se lidar.
+<0093> Todas as estrelas serão minhas.
+<0094> Brilhozinhos! Vou pegar até o último deles!
+<0095> Eu quero um montão de estrelas!
+<0096> Acho que vou coletar estrelas.
+<0097> Um montão de batalhas e vitórias!
+<0098> Vou acabar com qualquer um que estiver no meu caminho!
+<0099> Eeeeeba! Eu vou acabar com todos!
+<0100> Eu vou amassá-los com minhas pedras!
+<0101> Tsih está aqui!
+<0102> Eu?
+<0103> Ei! Vamos lá!
+<0104> Vou conseguir!
+<0105> Nyafuu! Estou ficando animada!
+<0106> Deixe-me destruir todos!
+<0107> Eu serei a vencedora.
+<0108> Nyafuu nyafuuu!
+<0109> Eu sou a vencedora! Nyafufufu.
+<0110> Eu consegui! Estou em primeiro!
+<0111> Pigyaamo! Estou me sentindo incrível.
+<0112> Yafueeey! Sou a campeã!
+<0113> Consegui algo novo.
+<0114> Oh, eu nunca vi este.
+<0115> Esse aí é bom.
+<0116> Você está feliz com isto?
+<0117> Certo!
+<0118> Bom.
+<0119> Siiim.
+<0120> NÃO!
+<0121> Ugeeh.
+<0122> Que sorte!
+<0123> Nyuun?
+<0124> Vamos lá.
+<0125> Dado!
+<0126> Aqui vamos nós!
+<0127> Olá!
+<0128> Hmnyaan...
+<0129> Você é bom!
+<0130> Você é incrível!
+<0131> Santo deus.
+<0132> Acho que usarei isto.
+<0133> Hmnyaa! Vou usar a carta desse cara!
+<0134> Esta carta é feita para ser usada!
+<0135> Nyhahaha! Vou usar esta também!
+<0136> Alte, vamos lá.
+<0137> Nyafufu, você pode até tentar!
+<0138> Eu venci desta vez! Nós vamos lutar novamente outra hora!
+<0139> Alte... Seus poderes estão maiores...
+<0140> A-Agora sim é uma garota descolada! Podemos lutar!?
+<0141> É aquela garota descolada! Vamos lá!
+<0142> Eu tenho um grande sentimento de conquista...
+<0143> É por isso... Que eu chamo ela de descolada...
+<0144> Cara, que adulto mais preguiçoso...
+<0145> Oh, é aquela mulher preguiçosa.
+<0146> Não serei como ela quando eu crescer.
+<0147> Eu me odeio por perder para alguém como ela...
+<0148> Oh, você parece delicioso.
+<0149> Consegui meu jantar!
+<0150> Me dê sua posição como mascote!
+<0151> Cale a boca e pare de falar "poppo poppo" o tempo todo!
+<0152> Agora eu sou o mascote!!
+<0153> Pigyaamo! Eu perdi para o rato estúpido...
+<0154> Hmmmmm! Vou definitivamente fazê-lo pagar por isso!
+<0155> Você não tem chances de me derrotar... Nyufufufu.
+<0156> Muoooh! Vou te esmagar tão bem que nem irá notar quando morreu!
+<0157> Estou muito mais poderosa do que antes!
+<0158> Aqui vou eu! Deryaaaah!
+<0159> Pigyaaaaamoh!!!!

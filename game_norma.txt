@@ -1,0 +1,47 @@
+< GAME_NORMA_CLEAR >
+Concluiu a Norma!
+
+< GAME_NORMA_ACHIEVED >
+Norma Atingida
+
+< GAME_NORMA_STARS >
+Consiga <normaamount> ou mais estrelas.
+
+< GAME_NORMA_STARS_10 >
+Consiga 10 ou mais estrelas.
+
+< GAME_NORMA_STARS_30 >
+Consiga 30 ou mais estrelas.
+
+< GAME_NORMA_STARS_70 >
+Consiga 70 ou mais estrelas.
+
+< GAME_NORMA_STARS_120 >
+Consiga 120 ou mais estrelas.
+
+< GAME_NORMA_STARS_200 >
+Consiga 200 ou mais estrelas.
+
+< GAME_NORMA_WINS_MULTIPLE >
+Consiga <normaamount> ou mais vitórias.
+
+< GAME_NORMA_WINS_SINGLE >
+Derrote um oponente.
+
+< GAME_NORMA_WINS_1 >
+Consiga 1 vitória.
+
+< GAME_NORMA_WINS_2 >
+Consiga 2 vitórias.
+
+< GAME_NORMA_WINS_5 >
+Consiga 5 vitórias.
+
+< GAME_NORMA_WINS_9 >
+Consiga 9 vitórias.
+
+< GAME_NORMA_WINS_14 >
+Consiga 14 vitórias.
+
+[EOF]
+

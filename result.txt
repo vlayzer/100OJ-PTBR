@@ -1,0 +1,57 @@
+
+< RESULT_HEADER >
+Relatório das Estrelas Obtidas
+
+< RESULT_SCORE_OWNEDSTARS >
+Estrelas Obtidas
+
+< RESULT_SCORE_LEVELBONUS >
+Bônus de Nível
+
+< RESULT_SCORE_ENEMYBONUS >
+Bônus de Inimigos
+
+< RESULT_SCORE_RANKBONUS >
+Bônus de Ranque
+
+< RESULT_SCORE_CAMPAIGNBONUS >
+Bônus de Campanha
+
+< RESULT_SCORE_BOSSBONUS >
+Bônus do Chefe
+
+< RESULT_SCORE_CARDMASTER >
+Mestre das Cartas
+
+< RESULT_SCORE_TRAPMEISTER >
+Mestre das Armadilhas
+
+< RESULT_SCORE_AVENGER >
+Vingador
+
+< RESULT_SCORE_SURVIVOR >
+Sobrevivente
+
+< RESULT_SCORE_MISFORTUNE >
+Má Sorte
+
+< RESULT_SCORE_STARDECAY >
+Decadência de Estrelas
+
+< RESULT_SCORE_TOTAL >
+Total
+
+< RESULT_EXP_LEVEL >
+Nível
+
+< RESULT_EXP_EXPERIENCE >
+XP
+
+< RESULT_EXP_EXPERIENCETONEXTLEVEL >
+Próximo
+
+< RESULT_SPEEDADJUST >
+Ajuste de Velocidade
+
+[EOF]
+

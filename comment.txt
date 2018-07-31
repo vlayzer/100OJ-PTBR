@@ -1,0 +1,234 @@
+
+< COM_CONFIG_SYSTEM >
+Configuração do Sistema.
+
+< COM_CONFIG_SCREEN >
+Configurações de Tela.
+
+< COM_CONFIG_AUDIO >
+Configuração de Áudio.
+
+< COM_CONFIG_VOICE >
+Configuração de Voz.
+
+< COM_NEWGAME_SELECTSLOT >
+Selecione um Espaço para salvar.
+
+< COM_NEWGAME_SLOTCONFIRM >
+Você tem certeza de que quer usar este espaço?
+
+< COM_NEWGAME_ENTERNAME >
+Coloque o nome do seu jogador.
+
+< COM_NEWGAME_SELECTCHARACTER >
+Escolha um personagem.
+
+< COM_NEWGAME_CHARACTERCONFIRM >
+Você tem certeza de que quer usar este personagem?
+
+< COM_LOADGAME_SELECTSLOT >
+Selecione um espaço para carregar.
+
+< COM_LOADGAME_LOADCONFIRM >
+Você tem certeza de que quer carregar este espaço?
+
+< COM_SHOP_SELECTITEM >
+Selecione um item para comprar.
+
+< COM_SHOP_BUYCONFIRM >
+Você tem certeza de que quer comprar este item?
+
+< COM_SHOP_ITEMSOLDOUT >
+Este item já foi vendido.
+
+< COM_SHOP_ITEMNOTINSTOCK >
+Este item ainda precisa ser estocado.
+
+< COM_SHOP_NOTENOUGHSTARS >
+Você não possui estrelas o suficiente.
+
+< COM_SHOP_NOTENOUGHHALLOWEENCANDY >
+Você não possui doces do dia das bruxas o suficiente.
+
+< COM_SHOP_NOTENOUGHORANGES >
+Você não possui laranjas o suficiente.
+
+< COM_SHOP_NOSTEAMCONNECTION >
+Este item requere conexão com a Steam.
+
+< COM_SHOP_NOSTEAMCONNECTIONDLC >
+Não é possível verificar a posse de DLCs sem a conexão com a Steam.
+
+< COM_SHOP_ALREADYOWNDLC >
+Você já possui esta DLC.
+
+< COM_SHOP_BONUSITEM >
+Este item é dado de presente para todos os donos de %s na Steam.
+
+< COM_SHOP_DLCCHARACTERITEM >
+Este item pertence a um personagem de DLC que você não possui.
+
+< COM_SHOP_LEVELTOOLOW >
+Seu nível não é alto o suficiente para comprar este item.
+
+< COM_SHOP_BOUGHTCARDPACK >
+Você comprou um pacote de carta!
+
+< COM_SHOP_BOUGHTCARD >
+Você comprou uma única carta!
+
+< COM_SHOP_BOUGHTDISCOUNT >
+Você comprou um cupom de desconto para a loja!
+
+< COM_SHOP_BOUGHTCHARACTER >
+Você comprou um novo personagem jogável!
+
+< COM_SHOP_BOUGHTFIELD >
+Você comprou um novo campo!
+
+< COM_SHOP_BOUGHTCOLORS >
+Você comprou novas cores para sua unidade!
+
+< COM_SHOP_BOUGHTHAIR >
+Você comprou um cabelo novo para sua unidade!
+
+< COM_SHOP_BOUGHTACCESSORY >
+Você comprou um novo acessório!
+
+< COM_SHOP_BOUGHTDICE >
+Você comprou um novo dado!
+
+< COM_SHOP_BOUGHTCANDY1 >
+Você comprou 1 doce natalino!
+
+< COM_SHOP_BOUGHTCANDY10 >
+Você comprou 10 doces natalinos!
+
+< COM_SHOP_BOUGHTCRATE >
+Você comprou uma caixa!
+
+< COM_USERINFO_PLAYERINFO >
+Veja a informação do seu jogador.
+
+< COM_USERINFO_GAMEINFO >
+Veja a informação do jogo.
+
+< COM_USERINFO_BROWSECARDS >
+Dê uma olhada em suas cartas.
+
+< COM_USERINFO_CARDSINFO >
+Olhe as informações da sua coleção de cartas.
+
+< COM_USERINFO_AVATAR >
+Mude a aparência de seu avatar.
+
+< COM_CAMPAIGN_SELECTSCENARIO >
+Selecione um cenário.
+
+< COM_CAMPAIGN_SELECTSTAGE >
+Selecione um capítulo.
+
+< COM_CAMPAIGN_BREAKERPACKONLY >
+Esta campanha só pode ser jogada por donos do "Pacote Breaker".
+
+< COM_CAMPAIGN_WITCHPACKONLY >
+Esta campanha só pode ser jogada por donos do "Pacote das Bruxas".
+
+< COM_FREEBATTLE_CHOOSEGAMETYPE >
+Selecione um modo de jogo.
+
+< COM_FIELDSELECT >
+Selecione o campo.
+
+< COM_RANDOMFIELD_MINIMUMREQUIRED >
+Você precisa definir pelo menos 3 campos na configuração aleatória.
+
+< COM_RANDOMFIELDEVENT_MINIMUMREQUIRED >
+Você precisa definir pelo menos 3 eventos de campo para a configuração aleatória.
+
+< COM_DECK_PREPARE >
+Selecione um personagem / crie um baralho.
+
+< COM_DECK_NOTPREPARED >
+Ainda não está pronto.
+
+< COM_DECK_CARDLIMITREACHED >
+Mais nenhuma carta deste tipo pode ser colocada.
+
+< COM_DECK_DLCONLYCARD >
+Esta carta somente pode ser colocada pelos donos de sua DLC.
+
+< COM_DECK_WAITING >
+Esperando os outros jogadores se prepararem...
+
+< COM_DECK_READY >
+Preparado para jogar a partida!
+
+< COM_GAME_PAUSED >
+Pausado.
+
+< COM_GAME_QUITCONFIRM >
+Você tem certeza de que quer sair do jogo?
+
+< COM_RESULT_STARSGAINED >
+As estrelas que você ganhou na partida.
+
+< COM_CREATELOBBY_SETOPTIONS >
+Configure as opções de sala.
+
+< COM_CREATELOBBY_CREATING >
+Criando sala Steam...
+
+< COM_CREATELOBBY_FAILED >
+Não foi possível criar uma sala Steam.
+
+< COM_CREATELOBBY_NAMEEMPTY >
+O campo para o nome da sala não pode estar vazio.
+
+< COM_LOBBYLIST_SELECTLOBBY >
+Selecione uma sala. Seus amigos Steam aparecem como estrelas verdes.
+
+< COM_LOBBYLIST_JOINLOBBY >
+Junte-se à sala selecionada ou entre em contato com seu dono.
+
+< COM_LOBBYLIST_PASSWORDEMPTY >
+O campo para a senha não pode estar vazio.
+
+< COM_LOBBYLIST_SEARCHEMPTY >
+O campo para procura não pode estar vazio.
+
+< COM_LOBBYLIST_CONNECTFAILED >
+Não foi possível se conectar à sala.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOSELECT >
+Não pode selecionar esta sala - dados da sala ainda não foram recebidos.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOCONTACT >
+Não foi possível entrar em contato com o dono da sala - dados da sala ainda não foram recebidos.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOJOIN >
+Não foi possível juntar-se à sala - dados do jogo não recebidos.
+
+< COM_LOBBY_WAITINGFORPARTICIPANTS >
+Esperando pelos outros participantes...
+
+< COM_LOBBY_WAITINGFORPLAYERS >
+Esperando por outros jogadores...
+
+< COM_LOBBY_PLAYERSNOTREADY >
+Não é possível iniciar um jogo sem que todos os jogadores estejam preparados.
+
+< COM_LOBBY_KICKREADYPLAYER >
+Não é possível chutar um jogador que está preparado.
+
+< COM_LOBBY_KICKNOTREADY >
+Ainda não pode chutar aquele jogador.
+
+< COM_LOBBY_MIDGAME_JOINED >
+Entrou na partida! Você pode virar um jogador no início do próximo capítulo.
+
+< COM_LOBBY_SPECTATOR_WAITINGDECKS >
+A partida começou! Esperando os jogadores concluírem seus baralhos...
+
+[EOF]
+

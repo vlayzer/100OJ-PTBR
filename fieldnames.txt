@@ -1,0 +1,90 @@
+
+< FIELD_RANDOM >
+Aleatório
+
+< FIELD_UNKNOWN >
+Desconhecido
+
+< FIELD_PRACTICE >
+Campo de Prática
+
+< FIELD_SPACEWANDERER >
+Andarilho Espacial
+
+< FIELD_PUDDINGCHASE >
+Perseguição ao Pudim
+
+< FIELD_CHRISTMASMIRACLE >
+Milagre de Natal
+
+< FIELD_PLANETEARTH >
+Planeta Terra
+
+< FIELD_LAGOONFLIGHT >
+Voo no Lago
+
+< FIELD_WARFARE >
+Conflito
+
+< FIELD_HIGHWAYHEIST >
+Conflito na Estrada
+
+< FIELD_SEALEDARCHIVE >
+Arquivo Confidencial
+
+< FIELD_SUNSET >
+Pôr do Sol
+
+< FIELD_TOMOMOABYSS >
+Abismo da Tomomo
+
+< FIELD_WHITEWINTER >
+Inverno Branco
+
+< FIELD_NIGHTFLIGHT >
+Voo Noturno
+
+< FIELD_CLOVER >
+Trevo
+
+< FIELD_FARM >
+Fazenda
+
+< FIELD_STARCIRCUIT >
+Circuito Estelar
+
+< FIELD_TRAININGPROGRAM >
+Programa de Treinamento
+
+< FIELD_VORTEX >
+Vórtice
+
+< FIELD_SWEETHEAVEN >
+Paraíso dos Doces
+
+< FIELD_STARSHIP >
+Nave Estelar
+
+< FIELD_FROSTCAVE >
+Caverna Congelada
+
+< FIELD_SHIPYARD >
+Estaleiro
+
+< FIELD_TREASUREISLAND >
+Ilha do Tesouro
+
+< FIELD_TREASUREISLANDNIGHT >
+Ilha do Tesouro (Noite)
+
+< FIELD_WITCHFOREST >
+Floresta das Bruxas
+
+< FIELD_ICYHIDEOUT >
+Esconderijo Gélido
+
+< FIELD_SAKURA >
+Confronto nas Cerejeiras
+
+[EOF]
+

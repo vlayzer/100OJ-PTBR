@@ -1,0 +1,230 @@
+
+< CARD_UNIT_ALTE >
+name=Alte
+descr=Em batalha, veja uma carta aleatória do oponente.\nQuando se Auto-Destruir (Hyper) ganhe +1 ATK (Máx.+3).
+
+< CARD_UNIT_ARU >
+name=Aru
+descr=Pode Segurar 4 Cartas.
+
+< CARD_UNIT_ARUSCRAMBLE >
+name=Aru (XSS)
+descr=Pode Segurar 4 Cartas.
+
+< CARD_UNIT_BIG_THE_JONATHAN >
+name=Jonathan o Grande
+descr=
+
+< CARD_UNIT_CHICKEN >
+name=Galinha
+descr=
+
+< CARD_UNIT_CHICKEN_MP >
+name=Galinha
+descr=Perca 1/4 de estrelas e dê 1 vitória ao ser derrotado em batalha.
+
+< CARD_UNIT_CASTLE >
+name=Castelo Voador
+descr=
+
+< CARD_UNIT_CASTLE_MP >
+name=Castelo Voador
+descr=Imunidade a cartas de batalha quando for atacado por outro jogador.\nNão pode contra-atacar.
+
+< CARD_UNIT_CEOREPARQUE >
+name=Ceoreparque
+descr=Ao realizar uma evasão com sucesso, cause 1 de dano ao oponente.
+
+< CARD_UNIT_FERNET >
+name=Fernet
+descr=
+
+< CARD_UNIT_HIME >
+name=Hime
+descr=
+
+< CARD_UNIT_KAE >
+name=Kae
+descr=Adicione o valor reverso da DEF em ATK.\nGanha -1 de DEF ao Atacar
+
+< CARD_UNIT_KAI >
+name=Kai
+descr=
+
+< CARD_UNIT_KIRIKO >
+name=Kiriko
+descr=Ignore efeitos de cura.\nQuando usar uma carta de batalha, ganhe +1 ATK e +1 EVD durante a batalha e perca 1 HP máximo até um mínimo de 2 HP
+
+< CARD_UNIT_KRILA >
+name=Krila
+descr=
+
+< CARD_UNIT_KYOKO >
+name=Kyoko
+descr=Não pode usar o comando de evasão em batalha.
+
+< CARD_UNIT_KYOUSUKE >
+name=Kyousuke
+descr=
+
+< CARD_UNIT_MANAGER >
+name=Gerente
+descr=
+
+< CARD_UNIT_MANAGER_MP >
+name=Gerente
+descr=Não ganha estrelas de painéis bônus.\nSó pode usar cartas do tipo "Gift".\nRecebe 1 de dano por cada carta descartada.
+
+< CARD_UNIT_MARC >
+name=Marc
+descr=
+
+< CARD_UNIT_MIMYUU >
+name=Mimyuu
+descr=Se reanima como Tomato.\nPerca 1/4 estrelas e dê somente 1 vitória ao ser nocauteado em batalha.
+
+< CARD_UNIT_MIUSAKI >
+name=Miusaki
+descr=Enquanto estiver usando o comando de Defesa em batalha, nunca receba mais do que 2 de dano.
+
+< CARD_UNIT_MIXEDPOPPO >
+name=Marie Poppo (200%MJ)
+descr=Ao se teleportar por qualquer efeito:\nSe o nível do jogador for ímpar, ganhe x3 do nível em estrelas.\nSe for par, puxe uma carta.
+
+< CARD_UNIT_NANAKO >
+name=Nanako
+descr=
+
+< CARD_UNIT_NATH >
+name=Nath
+descr=Ganhe 1 estoque de "Extensão Ativa" por cada batalha em que ao menos 1 carta de batalha foi usada (Máx.3).\nPerca 1 estoque ao ser nocauteado.\nEfeito de Estoque: Ganhe +1 ATK, +1 DEF, e -1 EVD.
+
+< CARD_UNIT_NONAME >
+name=NoName
+descr=Caso seja Nocauteado, não dê estrelas ou vitórias pela batalha e vire NoName (Cabeça).
+
+< CARD_UNIT_NONAME_HEAD >
+name=NoName (Cabeça)
+descr=Mude para NoName depois de chegar em uma casa ou ser nocauteado.\n-1 para o movimento.
+
+< CARD_UNIT_POPPO >
+name=Marie Poppo
+descr=
+
+< CARD_UNIT_PEAT >
+name=Peat
+descr=
+
+< CARD_UNIT_QP >
+name=QP
+descr=
+
+< CARD_UNIT_QPD >
+name=QP (QPSD)
+descr=Ganhe bônus de combate por cada carta que possua "Pudim" no nome em sua mão.\nPudim Ruim +DEF; Pudim Perigoso +ATK; Pudim  +EVD.
+
+< CARD_UNIT_ROBOBALL >
+name=Robô Bola
+descr=
+
+< CARD_UNIT_ROBOBALL_MP >
+name=Robô Bola
+descr=Dê somente 1 vitória ao ser nocauteado em batalha.
+
+< CARD_UNIT_SAKI >
+name=Saki
+descr=
+
+< CARD_UNIT_SEAGULL >
+name=Gaivota
+descr=
+
+< CARD_UNIT_SEAGULL_MP >
+name=Gaivota
+descr=Dê somente 1 vitória ao ser nocauteado em batalha.
+
+< CARD_UNIT_SHAM >
+name=Sham
+descr=
+
+< CARD_UNIT_SHERRY >
+name=Sherry
+descr=Em batalha, o inimigo sempre ataca primeiro.\nCaso seja contra uma outra Sherry, ignore o efeito.
+
+< CARD_UNIT_SHIFUROBOT >
+name=Robô Shifu
+descr=
+
+< CARD_UNIT_SHIFUROBOT_MP >
+name=Robô Shifu
+descr=Começa e se reanima com 1 HP.\nReparo automático a cada 4 capítulos
+
+< CARD_UNIT_SORA >
+name=Sora
+descr=
+
+< CARD_UNIT_SORAMILITARY >
+name=Sora (Militar)
+descr=Se nocauteado em batalha, se reanime com 2 HP em seu próximo turno.
+
+< CARD_UNIT_STARBREAKER >
+name=Star Breaker
+descr=Só pode escolher a norma de vitórias.
+
+< CARD_UNIT_SUGURI >
+name=Suguri
+descr=
+
+< CARD_UNIT_SUGURI_V2 >
+name=Suguri (Ver.2)
+descr=Só pode segurar 2 cartas.\nRecupere 1 HP no início de cada turno.
+
+< CARD_UNIT_SWEETBREAKER >
+name=Sweet Breaker
+descr=Ao batalhar com um jogador que possua cartas invertidas, ganhe +1 ATK, DEF e EVD por cada.
+
+< CARD_UNIT_SYURA >
+name=Syura
+descr=Quando estiver com 1 HP, ganhe +1 em ATK e EVD.
+
+< CARD_UNIT_TOMATO >
+name=Tomato
+descr=Se reanima como Mimyuu.\nAo puxar uma carta "Espionagem Maligna - Execução" do baralho principal ela virará "Vá, Máquina Waruda!" em sua mão.
+
+< CARD_UNIT_TEQUILA >
+name=Tequila
+descr=Um Capanga Pirata pode aparecer como um inimigo para os seus oponentes nos painéis de batalha.\nGanhe +1 ATK por cada ponto de HP perdido em uma batalha, efeito acaba no final da batalha.
+
+< CARD_UNIT_TEQMINION >
+name=Capanga Pirata
+descr=Caso derrote o oponente, ele perde estrelas igual ao nível dele x10.\nO jogador que invocou o Pirata ganha as estrelas.\nNão aparece como inimigo para quem o invocou. 
+
+< CARD_UNIT_TOMOMO >
+name=Tomomo
+descr=
+
+< CARD_UNIT_TOMOMO_MP >
+name=Tomomo
+descr=Reduzida: Tomomo está se divertindo com os amigos. Então reduziu seus atributos.
+
+< CARD_UNIT_TOMOMO_CASUAL
+name=Tomomo (Casual)
+descr=
+
+< CARD_UNIT_TOMOMO_SWEETEATER >
+name=Devoradora de Doces
+descr=Quando nocauteada, descarte toda sua mão e se transforme de volta em Tomomo (Casual).
+
+< CARD_UNIT_TSIH >
+name=Tsih
+descr=Ganhe +2 em ATK enquanto estiver segurando uma carta 'gift'.
+
+< CARD_UNIT_YUKI_DANGEROUS >
+name=Yuki (QPSD)
+descr=Todas as cartas com "Pudim" no nome mudam para "Tragédia na Calada da Noite".\nGanhe 1 vitória quando outros jogadores pisarem em suas armadilhas.\nNão ganha vitórias contra chefes ou inimigos neutros.
+
+< CARD_UNIT_YUKI >
+name=Yuki
+descr=
+
+[EOF]

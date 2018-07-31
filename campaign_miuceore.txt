@@ -1,0 +1,158 @@
+
+<0000> Hmm... O que eu devo fazer?
+<0001> Ei, Repa. Parece que tem algo te incomodando. O que é?
+<0002> ...Aí vem a barulhenta.
+<0003> O quê? Barulhenta? Está me elogiando?
+<0004> ...*Suspiro*. Acho que você devia aprender a ter mais consciência.
+<0005> Meu charme é ser cheia de energia.
+<0006> Isso não é algo que você deva dizer de si mesma.
+<0007> De qualquer jeito, voltemos ao tópico inicial... Você parece ter algum problema. O que é? Talvez eu possa te ajudar.
+<0008> Não é nada. Estou bem... só me deixe sozinha, por favor...
+<0009> Vamos lá, não seja tão difícil... Como garotas mágicas companheiras, devemos ser legais umas com as outras.
+<0010> Eu realmente quero aumentar meu Poder Feminino com você. Por favor. Eu não tenho nada para fazer...
+<0011> *Suspiro*. Você só quer sair do tédio, não é... Mas pensando melhor... Talvez você possa me ajudar. Miu, você pode me dar uma mãozinha.
+<0012> Sim, mas é claro! Eu posso te dar uma mãozinha! Sim! Certo! O que vai ser? Um encontro? Mãos dadas? Ou talvez um B-E-I-J-O?
+<0013> Não é isso que eu quero dizer... tire sua cara de perto de mim.
+<0014> Ehehe, Só estou brincando. Então, o que você quer que eu faça?
+<0015> Jogue um jogo comigo.
+<0016> Um jogo?
+<0017> É chamado de jogo de tabuleiro. Eu peguei emprestado da Bruxa da Floresta.
+<0018> Ela me explicou que é mais divertido jogar com outras pessoas... Portanto, darei-lhe o privilégio de jogar comigo.
+<0019> Entendo. Ela tem um gosto estranho, tendo coisas assim.
+<0020> Ela também disse que as almas de garotas lendárias habitam esse jogo.
+<0021> Quem são essas garotas?
+<0022> São garotas que aumentaram seu PF... para um nível altíssimo.
+<0023> É por isso que... jogar esse jogo deve dar um aumento de PF para a Repa, também.
+<0024> Uau, Isso soa bem divertido! Vamos começar agora!
+<0025> Vejo que você está animada igual a mim. Certo então, vamos começar.
+<0026> Cara, esse jogo é bem desafiador. Mas eu não senti muito PF nessas garotas.
+<0027> Abra seus olhos, Miu. Individualmente, estas 2 garotas não tem muito PF, mas pude sentir uma quantidade explosiva quando estavam juntas.
+<0028> Isso é o chamado PFC (Poder Feminino Combinado) de que tanto falam...? Está dizendo que é um aspecto de Poder Feminino que nunca vimos antes?
+<0029> Correto. PFC... Acho que também nosso PF foi aumentado só de aprender sobre isso.
+<0030> Isto é incrível...! Acho que só sentimos um pouco da maravilha que é esse jogo... Ei, devíamos jogar mais!
+<0031> Mas é claro. Agora, estamos indo para a próxima partida.
+<0032> Nossa... O que eram exatamente aquelas criaturas fofas? Você acha que eram realmente garotas?
+<0033> Repa quase perdeu sua mente, também. Elas eram extremamente fofas...
+<0034> Mesmo assim, Aquela fofura não parecia ser Poder Feminino.
+<0035> Fofura... É algo que serve para aumentar o PF de uma garota. Muita fofura, de outro lado, manda a pessoa para um conceito além de "Garota".
+<0036> "Sobrefofura". Nós devemos ter cuidado para que não aconteça conosco.
+<0037> Parece que esse jogo está nos ensinando lições valiosas... Isso me deixou muito mais interessada nele.
+<0038> Você está pensando no que eu estou pensando?
+<0039> Sim. Vamos logo para a próxima partida.
+<0040> Sabe o que eu achei? Eu posso relacionar as garotas que acabamos de enfrentar. Garotas energéticas são fofas, não são?
+<0041> Correto. Elas pareciam ser de um tipo igual ao seu... mas você parece estar pensando sobre um aspecto mais importante delas.
+<0042> O que?
+<0043> É o que elas vestem. Era simples porém bem chamativo. Eu realmente senti como se fossem um poder supremo, como se tivessem sido passado de geração em geração por vários séculos.
+<0044> Concordo... Aquela vestimenta tinha uma certa aura envolta sobre ela.
+<0045> Se vestir bem é um dos básicos para o aumento de PF. Essas fantasias me mostraram um potencial incrível. Elas iriam ficar magníficas em qualquer garota.
+<0046> Então, isso também significa que eu ficaria boa nelas também?
+<0047> Algo terrível de se imaginar, mas aposto que seja verdade. Devo dizer que, essas roupas não são nada além de milagrosas.
+<0048> Eba! Tenho que pedir para a Bruxa da Floresta fazer um para mim.
+<0049> Ah, não tão depressa. Quero uma também.
+<0050> Certo, por que não a visitamos juntas?
+<0051> ...Vou pensar sobre isso. Mas agora, estamos jogando um jogo até morrermos de tédio.
+<0052> Elegância. É literalmente a única palavra que eu pude pensar.
+<0053> Eu não seria capaz de fazer aquilo, não importa o quanto eu tentasse... Estou começando a perder as esperanças.
+<0054> Certamente seria impossível para você, Miu. Cada ação dessas duas garotas eram quietas e graciosas.
+<0055> Creio que seja algo que foi melhorado por elas desde que eram pequenas.
+<0056> Acredito que você esteja certa. Elas estão em um lugar que só pode ser alcançado por esforço contínuo desde que você tenha uma razão.
+<0057> Poxa. Estou começando a ficar com medo de jogar esse jogo...
+<0058> Já chegamos muito longe para desistir agora.
+<0059> Eu sei... se sentir mal não vai ajudar a gente ficar mais fofa! Vamos continuar!
+<0060> Realmente parecia com um par de garotas que trabalham bastante.
+<0061> Não esperava ver garotas como elas. Garotas que se esforçam realmente são fofas.
+<0062> Eu concordo. Eu acho que Rone é igualmente esforçada, e ela é muito fofa quando está fazendo o seu melhor.
+<0063> Eu diria que ela considera o que faz como um hobby... De qualquer jeito, essas garotas de antes mostravam ter um brilho interior.
+<0064> Eu acho que sei por quê. Aposto que possuem um sonho.
+<0065> Um sonho? Mas elas não estavam dormindo durante o jogo.
+<0066> Não é esse tipo de sonho que estou falando... Poxa, não me faça explicar. Isso seria bem vergonhoso.
+<0067> Você me interessou agora Miu, então me deve uma explicação.
+<0068> Vamos lá, vamos para o próximo estágio!
+<0069> Mas eu preciso que você me explique...
+<0070> Tinha... cheiros deliciosos por todo o lugar...
+<0071> Nunca vi a maioria desses doces na minha vida.
+<0072> Eles pareciam ter sido feitos por aquelas garotas.
+<0073> Fazer doces... É um dos básicos do Poder de Garota. Quanto melhor você faz, mais elogios você recebe, então você deve procurar sempre em fazer doces incrivelmente saborosos! Esse foi o sentimento que vi com elas.
+<0074> Você está absolutamente correta. Eu amei especialmente aquele meio molenga. Era simplesmente incrível.
+<0075> Acho que se chama "Pudim". Eu já sinto falta disso. Quer comer muito mais...
+<0076> Repa também... Espere!
+<0077> Algo de errado?
+<0078> Doces são realmente incríveis. Mas imagine o que vai acontecer se comer muitos deles.
+<0079> Bem, sua barriga vai inchar e suas bochechas vão estufar... Aaaaaaah!?
+<0080> Se você ficar redonda, seu PF vai cair drasticamente.
+<0081> Você está dizendo que fazer doces não somente aumenta seu PF mas também serve como arma... que envenena o PF de outras garotas?
+<0082> *Tremendo*... Estou impressionada. Nós acabamos de aprender... uma técnica simultânea de ataque e defesa.
+<0083> Cara... eu fico mais e mais impressionada.
+<0084> Isso prova o quão grande são as almas que vivem nesse jogo. É melhor dar mais valor as coisas da Bruxa da Floresta.
+<0085> Não posso esperar para ver as próximas garotas.
+<0086> Mulheres adultas...
+<0087> Mulheres que trabalham...
+<0088> Admito que o PF delas não era tão alto...
+<0089> Mas elas eram ambas maravilhosas.
+<0090> Garotas normais devem crescer atraentes mesmo depois do pico de seu PF.
+<0091> Faz sentido... você acha que vamos ser como elas algum dia?
+<0092> Eu imagino. Você sabe, ser garotas sempre jovens e tal.
+<0093> É verdade... é exatamente o por que de nós estarmos elevando nosso PF.
+<0094> Está se sentindo para baixo?
+<0095> Sim... mas ao menos isso foi bem divertido, então ficarei bem!
+<0096> Você é tão positiva... Agora, vamos continuar jogando.
+<0097> Claro!
+<0098> Nós enfretamos mulheres crescidas duas vezes em seguida.
+<0099> Elas pareciam bastante legais. Elas parecem ser pessoas que possuem uma firme compreensão das coisas.
+<0100> Eu entendo esse sentimento. Mas tipo... sinto que existe algo diferente entre essas e as garotas anteriores.
+<0101> É aquilo, não é? Apelo Sexual.
+<0102> Apelo sexual!! Cara, é algo que está totalmente fora do meu alcance.
+<0103> Não tenho nenhum também...
+<0104> Sabe o que eu acho? Ser adulta é realmente demais.
+<0105> Acho que você está certa. Mas...
+<0106> O quê?
+<0107> Mesmo se você pudesse virar adulta, provavelmente ainda não teria apelo sexual algum.
+<0108> O que faz você dizer isso!?
+<0109> De qualquer modo, parece que esse jogo está prestes a acabar.
+<0110> É mesmo? Certo então, vamos chegar no final bem rápido.
+<0111> Vamos lá.
+<0112> Aquilo foi...
+<0113> Esquisito. Tirando aquela garota com fantasia esquisita, aquela enfermeira tinha um corpo estonteante, mas...
+<0114> Ter um corpo bom é meio que uma característica inata. E se ela consegue manter isso, deveria ter uma enorme reserva de PF não importa o que ela vista.
+<0115> E mais, mulheres com um corpo assim como o dela deveriam ser muito elegantes... apesar de tudo isso...!
+<0116> Nenhuma dessas garotas parecia ter um pingo de PF nelas.
+<0117> Elas eram... uma coisa terrível de testemunhar. Tenho certeza de que elas estão na beira de virar Deusas da Morte.
+<0118> Deusas da morte... a perdição das Bruxas... mas por quê?
+<0119> Não tenho ideia. De todo modo, uma coisa que é certeza...
+<0120> Nós não podemos nos tornar como elas, certo?
+<0121> *Aceno*.
+<0122> Repa... estou ficando assustada.
+<0123> Eu também. Mas...
+<0124> Nós vamos continuar?
+<0125> Esse jogo está me enchendo de terror. Mas a próxima partida será a última... você me acompanharia?
+<0126> Se você se decidiu, Não tenho escolha se não fazer o mesmo!
+<0127> Miu... Obrigada.
+<0128> Então certo, a última... Ah não!
+<0129> O que está acontecendo...? Nós nem iniciamos ainda. Tem uma enorme aura... uma tempestade furiosa de Poder Feminino!!
+<0130> Nunca senti PF tão poderoso quanto esse...! Que tipo de garotas elas são?!
+<0131> Ídolos...
+<0132> Ídolos...
+<0133> Elas não eram nada além de um pedaço de PF puro.
+<0134> É... simplesmente inrcível... não tenho outras palavras.
+<0135> Miusaki, você está chorando?
+<0136> O quê...? Ah, sim, parece que estou. Talvez eu fiquei comovida... Repa, você está chorando também.
+<0137> Isso não pode estar acontecendo. Lágrimas estão saindo dos meus olhos sem parar.
+<0138> Ahaha. Acho que essas lágrimas provam o quão incríveis essas garotas eram.
+<0139> Sim, Não somente essas duas. Cada uma das garotas que apareceu neste jogo tocou meu coração em maneiras diferentes.
+<0140> Sinto a mesma coisa. E tem algo que quero te falar.
+<0141> O que é?
+<0142> Concordo que as garotas desse jogo eram fofas e tal, mas você é tão fofa quanto elas.
+<0143> Você está só me bajulando... mas isso me deixa um pouco feliz...
+<0144> Bem, se você disse tudo isso... devo confessar que você é um pouco fofa também.
+<0145> Obrigada!
+<0146> Certo então, está na hora de ir. Miusaki, venha comigo.
+<0147> Ah, irá devolver o jogo para a Bruxa da Floresta?
+<0148> Sim, e...
+<0149> Mmm, é tão bom! Eu não sabia que a Bruxa da Floresta conseguia fazer pudim.
+<0150> É essa. Essa é a roupa que eu precisava. Fica bom até na Miu.
+<0151> Você ficou muito boa nela também! Tão foooofa!
+<0152> Vocês duas estão fazendo muito barulho. Nossa.
+<0153> Sim, e também é raro ver as duas juntas. Então vocês jogaram, né?
+<0154> Sim. Foi esplêndido. Sou uma grande fã agora. Você devia jogar com a gente.
+<0155> Claro. Bem, precisamos de mais um jogador... Devemos ir buscar a Rone?
+<0156> Boa ideia. Vamos nos divertir de montão!

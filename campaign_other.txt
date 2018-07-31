@@ -1,0 +1,26 @@
+
+< CAMPAIGN_CHARACTER_PUYOPUYOMASCOT >
+Mascote Puyo Puyo
+
+< CAMPAIGN_CHARACTER_FORESTWITCH >
+Bruxa da Floresta
+
+< CAMPAIGN_CHARACTER_REIN >
+Rein
+
+< CAMPAIGN_CHARACTER_UNKNOWN >
+???
+
+< CAMPAIGN_CHARACTER_BIGTHEJONATHAN >
+Jonathan o Grande
+
+// Example: QP & Saki
+< CAMPAIGN_CHARACTER_MULTICHARA_SEPARATOR >
+&
+
+
+< CAMPAIGN_PRESENTCONFIRM >
+Tem certeza de que quer selecionar esse presente?
+
+[EOF]
+

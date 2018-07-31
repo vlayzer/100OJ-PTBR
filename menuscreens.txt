@@ -1,0 +1,186 @@
+
+< MENU_CLICKPROCEED >
+Aperte o botão esquerdo para prosseguir
+
+< MAINMENU_NEWGAME >
+NOVO JOGO
+
+< MAINMENU_LOADGAME >
+CONTINUAR
+
+< MAINMENU_CONFIGURATION >
+CONFIGURAÇÃO
+
+< MAINMENU_EXIT >
+SAIR
+
+< PLAYMENU_FREEBATTLE >
+ONLINE
+
+< PLAYMENU_SHOP >
+LOJA
+
+< PLAYMENU_CAMPAIGN >
+UM JOGADOR
+
+< PLAYMENU_PROFILE >
+INFO. DO JOGADOR
+
+< PLAYMENU_MANUAL >
+GUIA DO USUÁRIO
+
+< PLAYMENU_WIKI >
+WIKI
+
+< PLAYMENU_EXIT >
+SAIR
+
+< PLAYMENU_TOOLTIP_FREEPLAY >
+Jogue online contra outros jogadores.
+
+< PLAYMENU_TOOLTIP_SHOP >
+Compre pacotes de cartas, unidade e outros cosméticos.
+
+< PLAYMENU_TOOLTIP_CAMPAIGN >
+Selecione um personagem e mergulhe em sua história neste modo de um jogador
+
+< PLAYMENU_TOOLTIP_PROFILE >
+Veja suas estatísticas, cartas e customize seu avatar.
+
+< PLAYMENU_TOOLTIP_MANUAL >
+Abre o manual do jogo.
+
+< PLAYMENU_TOOLTIP_WIKI >
+Visite a Wiki feita por fãs para mais informações sobre o jogo.
+
+< PLAYMENU_TOOLTIP_CHALLENGES >
+Veja seus desafios diários.
+
+< PLAYMENU_TOOLTIP_EXIT >
+Retorne para a tela de título.
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTIONS >
+Conclua desafios que Rein te dará para recuperar os presentes, e os entregue para crianças bonzinhas até dia 15 de janeiro!
+
+< PLAYMENU_EVENT_XMAS2017_GIFTPROGRESS >
+Entregue presentes para crianças bondosas (%d/%d).
+
+< PLAYMENU_EVENT_XMAS2017_STAGEPROGRESS >
+Complete o cenário extra: %s.
+
+< PLAYMENU_EVENT_XMAS2017_COMPLETE >
+O natal foi salvo!\n(Mas se os Warudas mudaram ou não ainda é algo para ser visto...)
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_MAIN >
+Colete um total de 50000 chocolates para completar a missão!
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_01 >
+Colete chocolate ao andar sobre os painéis e ao derrotar oponentes.
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_02 >
+Derrote jogadores para roubar metade dos chocolates que estão segurando.
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_03 >
+Enquanto estiver carregando 500 ou mais chocolates, pare em uma casa para eles ficarem guardados.
+
+< PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
+Os doces do mundo inteiro foram salvos!\n(Pelo menos por agora..)
+
+< PLAYMENU_EVENT_BONUSITEMS >
+Itens bônus: %d/%d
+
+< PLAYMENU_EVENT_VIEWPROGRESS >
+Ver o progresso.
+
+< PLAYMENU_EVENT_MILESTONE >
+Próximo objetivo:
+
+< RANDOMFILTER_EVENTS >
+Selecione eventos para "Aleatório"
+
+< RANDOMFILTER_MAPS >
+Selecione mapas para "Aleatório"
+
+< RANDOMFILTER_CHARACTERS >
+Selecione personagens para "Aleatório"
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_MAIN >
+Recupere as partes do corpo do Sr. NoName da Poppo e o reconstrua!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_01 >
+Painéis de mini-jogo aparecem a cada 3 capítulos. Pise em um deles para jogar um jogo com a Poppo!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_02 >
+Faça pares com as cartas. O último par que você formar será sua recompensa. Caso falhe, uma recompensa é escolhida aleatoriamente.
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_03 >
+Preste bem atenção na carta que você quer e a siga conforme vai sendo misturada!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_04 >
+A Roda de prêmios da Poppo! Tente pará-la num momento certo para ganhar algo bom!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_05 >
+Poppos rapidamente aparecem nos barris - Bata nelas antes que desapareçam! Porém cuidado! Não seria bom se você acertasse os outros personagens...
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_06 >
+As partes do Sr. NoName aparecem de vez em quando nos mini-jogos. Caso você ver uma, tente pegá-la!
+
+< PLAYMENU_EVENT_SPRING2018_COMPLETE >
+As partes do Sr. NoName foram recolocadas no lugar e todos evitaram repetir de ano!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_MAIN >
+Derrote Jonathan o Grande!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_01 >
+Enquanto joga no modo cooperativo, mande Jonathan o Grande embora reduzindo seu HP para 0 ou sobreviva por 50 capítulos.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_02 >
+Neste modo cooperativo, cada jogador deve selecionar uma das classes disponíveis! Isso determinará suas habilidades, as cartas que irá ter, e sua "Hyper"!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_03 >
+O Atacante ganha +Ataque e sempre ataca primeiro, o Guardião ganha +Defesa e pode usar a habilidade de proteção, enquanto o Suporte ganha +Movimento e pode Reanimar aliados.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_04 >
+O valor de Reanimação das unidades é ajustado de acordo com uma regra especial, o Ataque aumenta o valor da Reanimação, e a Evasão o diminui. O valor mínimo para a Reanimação é 3.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_05 >
+Todos os 4 jogadores compartilham as Normas, Estrelas e Vitórias. Os Requerimentos para cada norma são 1.5x maiores para estrelas e 2x maiores para Vitórias. Os jogadores podem ver as cartas de cada um.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_06 >
+Durante o modo cooperativo, painéis de chefe vão se multiplicando. Pare em um deles para desafiar Jonathan o Grande!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_07 >
+Caso qualquer unidade do seu time seja nocauteada, seu time perderá 1/8 das estrelas. Unidades também poderão parar na casa de qualquer jogador.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_08 >
+Ao invés de eventos de campo normais, Jonathan o Grande usa várias habilidades diferentes para acabar com você! Ele desbloqueia mais conforme o jogo vai progredindo...
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
+Fique de olho no relógio! No capítulo 30, Jonathan o Grande se enfurece e destruirá todos os painéis de casa além de ativar suas habilidades mais poderosas!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_10 >
+Se todos os aliados estiverem nocauteados, o jogo acaba e Jonathan o Grande vencerá! Todo o dano causado a ele ainda irá afetar o progresso do evento.
+
+< PLAYMENU_EVENT_SUMMER2018_COMPLETE >
+Jonathan o Grande foi acalmado. Os mares e as praias estão seguras novamente!
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_ATTACKER >
+Atacante\n\nGolpe Inicial : Sempre ataque primeiro nas batalhas\nNorma 2: +1 ATK\nNorma 4 : +1 ATK\nHP do Chefão +5
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_DEFENDER >
+Guardião\n\nProteger: Pague 1 HP para proteger o alvo de 2 pontos de dano em sua próxima batalha\nNorma 2: +1 DEF\n Norma 4 : +1 DEF\nHP do Chefão - 5
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_SUPPORT >
+Suporte\nReanimação: Pode reanimar aliados ao passar por eles. Gastando estrelas.\nNorma 2: +1 em Movimento\nNorma 4: +1 em Movimento.
+	
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_BERSERKER >
+
+
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_BEGINNING >
+História Inicial
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_ENDING >
+Encerramento
+
+[EOF]

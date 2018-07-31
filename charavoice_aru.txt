@@ -1,0 +1,157 @@
+
+<0000> Aqui!
+<0001> Yah!
+<0002> Tah!
+<0003> Lá vou eu!
+<0004> Acho que vou usar uma carta.
+<0005> Carta!
+<0006> Ok, usarei esta!
+<0007> Aqui vou eu!
+<0008> *Esgueira Esgueira*...
+<0009> Isto vai... ficar aqui.
+<0010> Armadilha da Papai Noel... colocada.
+<0011> Armadilha!
+<0012> Não posso perder!
+<0013> Eu vou usar algo assim!
+<0014> Vai ter que ser esta!
+<0015> Carta de batalha!
+<0016> Pessoal, é hora de presentes!
+<0017> Uu, Preciso muito recuperar o tempo perdido!
+<0018> Não tenho tempo para perder! Eu tenho que ir!
+<0019> É somente o início!
+<0020> Eu não vou ser derrotada novamente!
+<0021> Isto não pode estar acontecendo!
+<0022> Hauu...
+<0023> O queeê!?
+<0024> Ah não!
+<0025> Eiyaah!
+<0026> Aqui!
+<0027> Aqui vou eu!
+<0028> Que tal isto?
+<0029> Aii!
+<0030> Unan!
+<0031> Hee!
+<0032> Owah!
+<0033> É tão confortável.
+<0034> Fuaah... Estou me sentindo melhor...
+<0035> Isso é tão bom...
+<0036> Curando!
+<0037> Wah wah!?
+<0038> Para onde você está me levando!?
+<0039> Onde é que eu vou parar?
+<0040> Wawah!
+<0041> Agora... não...
+<0042> Estou acabada...
+<0043> Vou só ficar caída...
+<0044> Não posso me mexer nem um pouco...
+<0045> Batalhe comigo!
+<0046> Vou te mostrar meus poderes de Papai Noel!
+<0047> Estou ansiosa para ir!
+<0048> Vamos lá!
+<0049> Você irá sair do meu caminho!?
+<0050> O quê? Você quer lutar comigo!?
+<0051> Pare de bloquear meu caminho ou...
+<0052> Eu aceito seu desafio!
+<0053> Ataque de presentes!
+<0054> Tome isto! E isto!
+<0055> Coma isso!
+<0056> Toryaah!
+<0057> Uheh!
+<0058> Mhma!
+<0059> Isso dói!
+<0060> Awawah!
+<0061> Aii!
+<0062> Gyaa!
+<0063> Goff!
+<0064> Awawawawah!
+<0065> Pulo!
+<0066> Você errou!
+<0067> Olhe como eu posso me esquivar bem!
+<0068> Está muito devagar!
+<0069> Certo, eu venci!
+<0070> Consegui!
+<0071> Ok, continuando.
+<0072> Ufa, eu consegui vencer.
+<0073> Poxa, isso não é bom...
+<0074> Eu perdi...
+<0075> Auu, você é muito forte...
+<0076> Não acredito que eu perdi...
+<0077> Estrelas!
+<0078> As estrelas estão brilhando!
+<0079> Caramba, elas são tão bonitas!
+<0080> Um presente de estrelas!
+<0081> Wawawah, minhas estrelas!
+<0082> Wah, eu derrubei algumas estrelas!
+<0083> Estrelas, esperem por mim!
+<0084> Auu... As estrelas sumiram...
+<0085> Uma armadilha!?
+<0086> Uaah, é uma armadilha!
+<0087> Howah!
+<0088> Oh droga!
+<0089> Fue!? Alguém apareceu do nada!?
+<0090> Awawah...
+<0091> Eu vou derrotar quem estiver no meu caminho!
+<0092> Esse cara parece bem forte...
+<0093> Eu escolho coletar estrelas!
+<0094> Eu gosto de coletar estrelas.
+<0095> Eu acho que vou coletar bastantes estrelas.
+<0096> Vai ser estrelas!
+<0097> Sei que não sou uma boa lutadora, mas mesmo assim...
+<0098> Não terei piedade daqueles que ousam ficar em meu caminho!
+<0099> Lutarei com o auxílio dos meus poderes de Papai Noel!
+<0100> Crianças malvadas devem ser punidas!
+<0101> Bem vindo ao quarto Rbit... Ah não, esquece!
+<0102> Você quer me ajudar a entregar presentes para as crianças?
+<0103> Ok, é hora de trabalhar!
+<0104> Crianças ao redor do mundo, estou indo até vocês!
+<0105> E assim começa!
+<0106> Certo, farei o meu melhor!
+<0107> Eu vou usar tudo que eu tenho para vencer!
+<0108> Eu não irei perder!
+<0109> Feliz natal!
+<0110> Aqui estão seus presentes, bons garotos e garotas!
+<0111> Fufufu, Eu consegui!
+<0112> Oba, eu venci!
+<0113> Aqui está um presente para você.
+<0114> Fufu, Papai Noel vai te entregar um presente.
+<0115> Espero que goste.
+<0116> Aqui, isto é para você.
+<0117> Ok!
+<0118> Ótimo!
+<0119> Sim!
+<0120> Não!
+<0121> Ah não!
+<0122> Que sorte!
+<0123> O quê?
+<0124> Vamos lá.
+<0125> É hora dos dados!
+<0126> Vamos começar isso!
+<0127> Olá!
+<0128> Hmm...
+<0129> Isso é ótimo!
+<0130> Isso é incrivel!
+<0131> Poxa...
+<0132> Deixe-me pegar isto emprestado!
+<0133> Que tipo de poder isto tem?
+<0134> Estou usando esta aqui.
+<0135> Mal posso esperar para ver o que vai acontecer!
+<0136> Aqui está um presente para você!
+<0137> Oh, Sra. Q... Opa, eu não preciso chamar ela assim agora.
+<0138> Bem-vinda ao quarto Rbit... Opa, escapou da minha boca.
+<0139> Me desculpem, coelhinhos...
+<0140> Uu, Fico grata que alguém tão forte é uma cliente regular da minha loja...
+<0141> Você, eu sei que é uma pessoa má!
+<0142> Que garota perigosa.
+<0143> Nenhum presente para pessoas más!
+<0144> É só minha roupa que é vermelha...
+<0145> Nossa, que criança pequena.
+<0146> O que, vocês duas são malvadas?
+<0147> Sejam garotas boas e darei dois presentes para vocês.
+<0148> Uu, Eu sabia que vocês duas eram crianças malvadas...
+<0149> Você é uma boa garota?
+<0150> Wawah, uma garotinha!
+<0151> Fufufu, espero que goste do meu presente.
+<0152> Eu pensei que você era uma garota boazinha...
+<0153> Wawah, meus presentes!
+<0154> Aqui estão presentes para vocês!
+<0155> Agora todos em formação! Igual como treinamos!

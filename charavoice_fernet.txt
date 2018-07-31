@@ -1,0 +1,156 @@
+<0000> Assim.
+<0001> É isso.
+<0002> Aqui vamos nós.
+<0003> Hmph.
+<0004> Usarei uma carta.
+<0005> Usarei esta carta.
+<0006> Isto, talvez?
+<0007> Que tal isto?
+<0008> Estarei colocando isto aqui.
+<0009> Devo colocar isto aqui?
+<0010> Colocarei uma carta aqui.
+<0011> Espero que alguém caia nesta.
+<0012> Então eu usarei esta carta.
+<0013> Meu ás na manga.
+<0014> Surpresa.
+<0015> Vou ter que usar esta.
+<0016> Hmph, caia diante de mim.
+<0017> Permita-me resumir.
+<0018> Que irritante.
+<0019> Vamos continuar.
+<0020> Eu odeio esperar.
+<0021> Essas coisas acontecem.
+<0022> Nada de mais.
+<0023> Tanto faz.
+<0024> Eu não me importo.
+<0025> Tome isto.
+<0026> Tome isso.
+<0027> Isto irá doer!
+<0028> Comporte-se!
+<0029> Aii!
+<0030> Que arrogância!
+<0031> Como ousa!
+<0032> Kyaa.
+<0033> Que alívio.
+<0034> Que irritante.
+<0035> Ufa.
+<0036> Nada mal.
+<0037> Como assim? O que está acontecendo?
+<0038> Ah... E-espere um pouco!
+<0039> O-onde você está me levando?
+<0040> Me escolte devidamente!
+<0041> Não pode.
+<0042> Fui negligente.
+<0043> Meu deus.
+<0044> O que você está fazendo?!
+<0045> Prepare-se.
+<0046> Você está no caminho.
+<0047> Saia do caminho.
+<0048> Lute comigo.
+<0049> Não terei piedade.
+<0050> Estou preparada.
+<0051> Você é bastante arrogante.
+<0052> Vou fazê-lo se arrepender disso.
+<0053> Caia perante à mim!
+<0054> Coma chumbo grosso!
+<0055> Toma isso!
+<0056> Aqui vou eu!
+<0057> Geh.
+<0058> Ngh.
+<0059> Ainda não acabei.
+<0060> Isso dói.
+<0061> Pare com isso!
+<0062> Espere um pouco!
+<0063> Isso dói!
+<0064> Kyaa!
+<0065> Não foi bom o suficiente.
+<0066> Tenho meu próprio jeito de fazer as coisas.
+<0067> Isso é tudo que você tem?
+<0068> Oh, que simples.
+<0069> Naturalmente.
+<0070> Sinceras desculpas.
+<0071> Oh, já acabou?
+<0072> Volte novamente.
+<0073> Você pagará por isso.
+<0074> Isso... não me incomoda.
+<0075> Como você ousa.
+<0076> Ha... hahahaha.
+<0077> Ficarei com isto.
+<0078> É, nada mal.
+<0079> Eu aceito.
+<0080> Justamente pelo que eu estava esperando.
+<0081> Somente uma bagatela.
+<0082> Hmph.
+<0083> Heheh.
+<0084> O quê? Isso tudo?
+<0085> Ah não!
+<0086> Mas que diabos?
+<0087> Ngh.
+<0088> Alguém colocou esta armadilha!
+<0089> Você pensou que eu ficaria com medo?
+<0090> Oh, parece que tem algo aqui.
+<0091> ...É enorme.
+<0092> Você não é tão durão quanto parece.
+<0093> Irei coletar estrelas.
+<0094> Bem, vou coletá-las bem rápido.
+<0095> Tenho mesmo que coletar tantas assim?
+<0096> Está tudo bem se eu as roubar, certo?
+<0097> Eu não gosto de selvageria, mas...
+<0098> É a mesma coisa de qualquer maneira.
+<0099> Não há necessidade de se segurar, certo?
+<0100> Hahaha... Isso ficou bem divertido.
+<0101> Uma boa decisão.
+<0102> Estou preparada.
+<0103> Oh, prazer.
+<0104> E-eu?
+<0105> Estou indo embora.
+<0106> Agora então, vamos começar.
+<0107> Ah, que irritante.
+<0108> Permita-me aproveitar isto.
+<0109> O óbvio resultado.
+<0110> Isso não é grande coisa.
+<0111> Já acabamos?
+<0112> P-parece que eu venci...
+<0113> Eu não tenho isto ainda.
+<0114> Isto é muito bom.
+<0115> Devo eu tentar usar isto?
+<0116> Oh, que esplêndido.
+<0117> Entendido.
+<0118> Muito bom.
+<0119> Sim.
+<0120> Não.
+<0121> O que é isso?
+<0122> Tanto faz.
+<0123> O que foi?
+<0124> Vamos indo.
+<0125> Como vai ser?
+<0126> Eu vou.
+<0127> Prazer.
+<0128> Ngh.
+<0129> Muito bom.
+<0130> Incrível!
+<0131> Hmph.
+<0132> Permita-me usar isto.
+<0133> Posso usar isto?
+<0134> Mas que carta!
+<0135> É uma carta muito boa.
+<0136> Oh, prazer.
+<0137> Desista logo de ser uma piloto.
+<0138> Como ousa!
+<0139> Esse seu vestido não é curto demais?
+<0140> Pare de falar de maneira estranha.
+<0141> Crianças devem ir para casa.
+<0142> Fanáticos por aviões são todos idiotas!
+<0143> Você é uma piloto também?
+<0144> ...Uou.
+<0145> Que vulgar...
+<0146> Um pervertido apareceu.
+<0147> Ah... Não consigo ver nada.
+<0148> Que sabor barato...
+<0149> Não acredito... que fui derrotada por um ser inferior!
+<0150> Quero levá-lo para minha casa.
+<0151> Isso realmente foi um incômodo.
+<0152> Eles fizeram algo tão estúpido.
+<0153> Não estou com raiva, ok?
+<0154> Mas que carta com pouca vergonha!
+<0155> Estou pegando seu poder emprestado!

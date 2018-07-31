@@ -1,0 +1,71 @@
+
+< CARD_ARTIST_PREFIX >
+Art: 
+
+< CARD_ARTIST_HONO >
+Hono
+
+< CARD_ARTIST_JUNPYON >
+Junpyon
+
+< CARD_ARTIST_YUUNANASE >
+Yuu Nanase
+
+< CARD_ARTIST_NERIUME >
+Neriume
+
+< CARD_ARTIST_TORI >
+Tori
+
+< CARD_ARTIST_MEGANE >
+Megane
+
+< CARD_ARTIST_MIZUKISEO >
+Mizuki Seo
+
+< CARD_ARTIST_ERINA >
+Erina
+
+< CARD_ARTIST_KITSUNE >
+Kitsune
+
+< CARD_ARTIST_TAMAKISEO >
+Tamaki Seo
+
+< CARD_ARTIST_KULAS >
+Kulas
+
+< CARD_ARTIST_CLASSICWOSHINJIRO >
+Classic wo Shinjiro
+
+< CARD_ARTIST_IKUSE >
+Ikuse
+
+< CARD_ARTIST_RAYNEW >
+RayNew
+
+< CARD_ARTIST_MARITAN >
+Maritan
+
+< CARD_ARTIST_FCROW >
+FCrow
+
+< CARD_ARTIST_EOKAMI >
+EOkami
+
+< CARD_ARTIST_LUCASSHIROI >
+Lucas-Shiroi
+
+< CARD_ARTIST_COFFGIRL >
+Coffgirl
+
+< CARD_ARTIST_ESCANDA >
+Escanda
+
+< CARD_ARTIST_HEXUN >
+hexun
+
+< CARD_ARTIST_GATO >
+Gato
+
+[EOF]

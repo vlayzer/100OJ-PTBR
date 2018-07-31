@@ -1,0 +1,188 @@
+
+< FREEBATTLE_CREATELOBBY >
+Modo Campanha
+
+< FREEBATTLE_JOINLOBBY >
+Juntar-se à uma sala
+
+< FREEBATTLE_SINGLEPLAYER >
+Um Jogador
+
+< FREEBATTLE_RETURN >
+Voltar
+
+< LOBBYLIST_RETRIEVINGLOBBIES >
+Carregando Salas. Por favor espere...
+
+< LOBBYLIST_RETRIEVINGDATA >
+Carregando dados das salas...
+
+< LOBBYLIST_DATATIMEOUT >
+Tempo esgotado de dados.
+
+< LOBBY_NOSTEAM >
+Não foi possível conectar-se a Steam.
+
+< LOBBY_CREATING >
+Criando sala steam...
+
+< LOBBY_CREATEFAILED >
+Não foi possível criar uma sala steam.
+
+< LOBBY_CONNECTING >
+Conectando-se à sala. Por favor espere...
+
+< LOBBY_CONNECTED >
+Conectado à Sala.
+
+< LOBBY_CONNECTFAILED >
+Falha ao conectar à sala.
+
+< LOBBY_NORESPONSE >
+Nenhuma resposta foi recebida.
+
+< LOBBY_GAMEABORTED >
+O jogo foi cancelado.
+
+< LOBBY_JOINRESPONSE >
+Esperando resposta do servidor...
+
+< LOBBY_JOINFAILED >
+Não foi possível juntar-se ao jogo.
+
+< LOBBY_FULL >
+A sala está cheia.
+
+< LOBBY_STEAMID_EXISTS >
+SteamID já em partida.
+
+< LOBBY_WRONGPASSWORD >
+Senha incorreta.
+
+< LOBBY_VERSIONDIFFERENCE >
+Versão da sala incompatível.
+
+< LOBBY_VERSIONUPDATE >
+Por favor atualize para a versão mais recente.
+
+< LOBBY_HOSTHASOLDVERSION >
+A sala está usando uma versão mais antiga do jogo.
+
+< LOBBY_LEAVECONFIRM >
+Sair da sala?
+
+< LOBBY_LEAVEWAIT >
+Saindo, por favor espere...
+
+< LOBBY_PLAYERLEFT >
+Um jogador saiu do jogo.
+
+< LOBBY_KICKCONFIRM >
+Tem certeza de que quer chutar este jogador?
+
+< LOBBY_KICKED >
+Removeu da sala.
+
+< LOBBY_PLAYERCONNECTIONLOST >
+Foi perdida a conexão à um jogador.
+
+< LOBBY_HOSTCONNECTIONLOST >
+Foi perdida a conexão ao dono da sala.
+
+< LOBBY_REMOVEDFORIDLING >
+Você foi removido por estar ausente.
+
+< LOBBY_CHANGING_OWNER >
+Trocando o dono da sala...
+
+< LOBBY_REPLACINGPLAYER >
+Trocando um jogador por uma CPU.
+
+< LOBBY_SPECTATOR_CONNECTING >
+Um espectador está entrando...
+
+// Prefix: Spectator's name. 
+< LOBBY_SPECTATOR_JOINREQUEST >
+Quer se juntar...
+
+< LOBBY_SPECTATOR_JOINREQUESTING >
+Permissão para entrar na partida...
+
+< LOBBY_SPECTATOR_JOINDENIED >
+Permissão negada.
+
+< LOBBY_SPECTATOR_JOINNOPLAYERSLOTS >
+Sem nenhum espaço de jogador livre.
+
+// LOBBY_SPECTATOR_JOIN + name + LOBBY_SPECTATOR_JOIN2
+// Spectator Domdi wants to join as player.
+< LOBBY_SPECTATOR_JOIN1 >
+Espectador
+
+< LOBBY_SPECTATOR_JOIN2 >
+Quer entrar na partida como jogador
+
+< LOBBY_PLAYERTOSPECTATOR_CONFIRM >
+Trocar para espectador?
+
+< LOBBY_SPECTATORTOPLAYER_CONFIRM >
+Trocar para jogador?
+
+< CHAT_TYPEPROMPT >
+<Digite uma mensagem e pressione ENTER.>
+
+// 10 characters max.
+< CHAT_NAME_SYSTEM >
+Sistema
+
+// 10 characters max.
+< CHAT_NAME_EMPTY >
+<NoName>
+
+< CHAT_SYSTEM_LOBBYCREATED >
+Sala %s criada!
+
+< CHAT_SYSTEM_LOBBYJOINED >
+Juntou-se à sala %s!
+
+< CHAT_SYSTEM_PLAYERJOINEDLOBBY >
+%s se juntou à sala!
+
+< CHAT_SYSTEM_GAMEENDED >
+O jogo foi encerrado. Retornando à Sala
+
+< CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
+Foi pedido um espaço de jogador ao dono da sala...
+
+< CHAT_SYSTEM_REQUESTEDSPECTATORSLOT >
+Foi pedido um espaço de espectador ao dono da sala...
+
+< CHAT_SYSTEM_PLAYERSLOTREQUESTTIMEOUT >
+Tempo esgotado para pedido de jogador.
+
+< CHAT_SYSTEM_SPECTATORSLOTREQUESTTIMEOUT >
+Tempo esgotado para pedido de espectador.
+
+< CHAT_SYSTEM_PLAYERTAKEOVER >
+%s está tomando lugar do jogador %d.
+
+< CHAT_SYSTEM_SWITCHEDTOPLAYER >
+Mudou para jogador!
+
+< CHAT_SYSTEM_SWITCHEDTOSPECTATOR >
+Mudou para Espectador!
+
+< CHAT_SYSTEM_PLAYERSWITCHEDTOSPECTATOR >
+%s Mudou de jogador para espectador.
+
+< CHAT_SYSTEM_SPECTATORSWITCHEDTOPLAYER >
+%s mudou de espectador para jogador.
+
+< CHAT_SYSTEM_PLAYERHASLEFTGAME >
+%s saiu do jogo.
+
+< CHAT_SYSTEM_LOSTCONNECTIONTOPLAYER >
+Conexão perdida com %s.
+
+[EOF]
+

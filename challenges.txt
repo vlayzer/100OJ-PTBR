@@ -1,0 +1,92 @@
+< CHALLENGE_TOOLTIP_REROLL >
+Pague %d estrelas para trocar por outro desafio do mesmo tipo.
+
+< CHALLENGE_TOOLTIP_STARCOUNT >
+Estrelas atuais: %d
+
+< CHALLENGE_GENERIC_PLAYS >
+Jogue %d partida(s).
+
+< CHALLENGE_GENERIC_WINS >
+Ganhe %d jogo(s).
+
+< CHALLENGE_GENERIC_STARS >
+Colete %d Estrelas no total.
+
+< CHALLENGE_GENERIC_KOS >
+Obtenha %d Vitórias no total.
+
+< CHALLENGE_GENERIC_STAR_WINS >
+Ganhe %d jogos com norma de Estrelas.
+
+< CHALLENGE_GENERIC_KO_WINS >
+Ganhe %d jogos com norma de Vitórias.
+
+< CHALLENGE_GENERIC_PANELS >
+Ande por %d painéis no total.
+
+< CHALLENGE_GENERIC_TRAPS >
+Coloque %d armadilhas no total.
+
+< CHALLENGE_GENERIC_STAR_NORMAS >
+Complete %d normas de Estrela no total.
+
+< CHALLENGE_GENERIC_WIN_NORMAS >
+Complete %d normas de Vitória no total.
+
+< CHALLENGE_UNIT_PLAYS >
+Jogue %d partidas como %s.
+
+< CHALLENGE_UNIT2_PLAYS >
+Jogue %d partidas como %s ou %s.
+
+< CHALLENGE_UNIT_WINS >
+Vença %d partidas como %s.
+
+< CHALLENGE_TYPE_UNIT_STAR_NORMAS >
+Conclua %d normas de Estrela como %s.
+
+< CHALLENGE_TYPE_UNIT_WIN_NORMAS >
+Conclua %d normas de Vitória como %s.
+
+< CHALLENGE_CARD_BRING >
+Traga pelo menos %s para %d jogos.
+
+< CHALLENGE_CARD_PLAY >
+Use %s %d vezes em jogos concluídos.
+
+< CHALLENGE_CARD2_BRING >
+Traga pelo menos 1 %s ou %s para %d jogos.
+
+< CHALLENGE_CARD2_PLAY >
+Use %s ou %s %d vezes em jogos concluídos.
+
+< CHALLENGE_MAP_PLAY >
+Jogue %d partidas em %s.
+
+< CHALLENGE_MAP2_PLAY >
+Jogue %d partida em %s ou %s.
+
+< CHALLENGE_TYPE_EVENT_VDAY_CHOCOLATE >
+Use o dado de chocolate para nocautear %d jogadores.
+
+< CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
+Use o dado de coração para coletar %d estrelas de painéis bônus.
+
+< CHALLENGE_TYPE_EVENT_XMAS_ICE >
+Deslize sobre %d painéis de gelo.
+
+< CHALLENGE_LABEL_CURRENT >
+Desafios Atuais
+
+< CHALLENGE_MESSAGE_EVENT_NOT_LOADED >
+Por favor espere, coletando a estatística dos eventos atuais...
+
+< CHALLENGE_MESSAGE_DAYS >
+d
+
+< CHALLENGE_MESSAGE_REROLL_CONFIRM >
+Tem certeza de que quer mudar esse desafio?
+
+[EOF]
+

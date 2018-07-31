@@ -1,0 +1,88 @@
+
+< FIELDEVENT_NONE >
+name=Nenhum
+descr=
+
+< FIELDEVENT_DEFAULT >
+name=Padrão
+descr=
+
+< FIELDEVENT_RANDOM >
+name=Aleatório
+descr=
+
+< FIELDEVENT_BOSSENCOUNTER >
+name=Chefão
+descr=
+
+< FIELDEVENT_REGENERATION >
+name=Regeneração
+descr=Todos os jogadores são recuperarão 1 HP.\n\nFrequência: A cada 5 Capítulos.
+
+< FIELDEVENT_RANDOMWARP >
+name=Teleporte Aleatório
+descr=Todos os jogadores são teleportados para painéis aleatórios.\n\nFrequência: A cada 5 Capítulos
+
+< FIELDEVENT_CHARITY >
+name=Caridade
+descr=Cada jogador compra uma carta extra.\n\nFrequência: A cada 5 Capítulos.
+
+< FIELDEVENT_AIRRAID >
+name=Bombardeio Aéreo
+descr=Todos os jogadores levam 1 de dano.\n\nFrequência: A cada 5 Capítulos.
+
+< FIELDEVENT_MINELAYER >
+name=Colocador de Armadilhas
+descr=Uma armadilha é colocada em um painel aleatório.\n\nFrequência: A cada 3 Capítulos.
+
+< FIELDEVENT_MIRACLE >
+name=Milagre
+descr=Todos os painéis de Batalha, Bônus, "Drop" e Movimento ganham o dobro de seu efeito.\n\nFrequência: A cada 5 Capítulos. Duração: 1 Capítulo.
+
+< FIELDEVENT_BATTLEFIELD >
+name=Campo de Batalha
+descr=Todos os painéis de Bônus e "Drop" viram de Batalha.\n\nFrequência: A cada 6 Capítulos. Duração: 3 Capítulos.
+
+< FIELDEVENT_CONFUSION >
+name=Confusão
+descr=Todas as cartas nas mãos de cada jogador serão embaralhadas e não podem ser vistas.\n\nFrequência: A cada 7 Capítulos. Duração: 1 Capítulo.
+
+< FIELDEVENT_BACKTRACK >
+name=Reviravolta
+descr=A direção do movimento é revertida para todos os jogadores.\n\nFrequência: A cada 8 Capítulos. Duração: 1 Capítulo.
+
+< FIELDEVENT_SPRINT >
+name=Corrida
+descr=Todos os jogadores jogam 2 dados para movimento.(Máx 4 dados.)\n\nFrequência: A cada 6 Capítulos. Duração: 1 Capítulo.
+
+< FIELDEVENT_HOMEROULETTE >
+name=Roleta de Casas
+descr=Todas os painéis de casa são embaralhados de forma aleatória.\n\nFrequência: A cada 9 Capítulos.
+
+< FIELDEVENT_BOMBER >
+name=Bombardeiro
+descr=Uma bomba que explode após 1-4 capítulos em forma de cruz e inflige 2 de dano em quem estiver na área da explosão.\n\nFrequência: A cada 2º Capítulo.
+
+< FIELDEVENT_MYSTERY >
+name=Mistério
+descr=Um evento de campo é ativado aleatoriamente.\n\nFrequência: A cada 5 Capítulos.
+
+< FIELDEVENT_FREEZE >
+name=Congelar
+descr=1/3 dos painéis descongelados do campo se tornam congelados por 1 capítulo.\n\nFrequência: A cada 5 capítulos.
+
+< FIELDEVENT_TREASURE >
+name=Tesouro
+descr=Um bau do tesouro é colocado aleatoriamente nos painéis, pare nesse painel para abrir o tesouro.\n\nFrequência: Todo Capítulo.
+
+< FIELDEVENT_AMP >
+name=Amplificar
+descr=Um atributo de batalha é intensificado aleatoriamente em +1.\n\nFrequência: A cada 6 Capítulos. Duração: 2 Capítulos.
+
+< FIELDEVENT_PLAYGROUND >
+name=Festival de Jogos!
+descr=Pare em painéis de mini-jogo para jogar um jogo com a Poppo.\n\nFrequência: A cada 5 capítulos.
+
+< FIELDEVENT_TERROR >
+name=Terror dos Céus
+descr=Alguns painéis irão mudar para você lutar contra o Jonathan.\nFrequência: Variável.\nDuração: 1 Capítulo.
