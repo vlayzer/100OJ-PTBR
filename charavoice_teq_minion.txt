@@ -3,7 +3,7 @@
 <0001> Aqui vamos nós!
 <0002> É hora do show!
 <0003> Bora lutar!
-<0004> Deixaremos tu orgulhoso, Capitão!
+<0004> Te deixaremos orgulhoso, Capitão!
 <0005> Bora lá!
 <0006> Desafio aceito!
 <0007> É disso que eu estou falando!
