@@ -16,7 +16,7 @@
 <0015> Vou ter que usar esta.
 <0016> Hmph, caia diante de mim.
 <0017> Permita-me resumir.
-<0018> Que irritante.
+<0018> Por que tenho que sofrer assim?
 <0019> Vamos continuar.
 <0020> Eu odeio esperar.
 <0021> Essas coisas acontecem.
@@ -32,7 +32,7 @@
 <0031> Como ousa!
 <0032> Kyaa.
 <0033> Que alívio.
-<0034> Que irritante.
+<0034> Ah, depois de tanto sofrimento.
 <0035> Ufa.
 <0036> Nada mal.
 <0037> Como assim? O que está acontecendo?
