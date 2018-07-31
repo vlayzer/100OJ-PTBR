@@ -1,4 +1,4 @@
-﻿
+
 < CARD_BOOST_DASH >
 name=Impulso!
 descr=Jogue 2 dados para movimento.
@@ -166,7 +166,7 @@ flavor="Vocês vão se levantar em um segundinho." ―Kiriko
 
 < CARD_EVENT_GIFTEXCHANGE >
 name=Troca de Presentes
-descr=Todas as cartas são trocadas aleatoriamente entre os jogadores. Seu total de cartas não muda.
+descr=Todas as cartas são trocadas aleatoriamente entre os jogadores. O total de cartas em cada mão não muda.
 flavor="Uma troca de presentes? Parece uma ótima ideia!" Rbit, Vermelho e Azul
 
 < CARD_EVENT_HEREANDTHERE >
@@ -241,7 +241,7 @@ flavor="Por que não usamos isto para decidir quem vai primeiro?" ―Yuki
 
 < CARD_HYPER_QP >
 name=Modo Hiper!
-descr=Sua unidade ganha +2 de ataque durante esta batalha.\nCaso sua unidade seja nocauteada nesta batalha, não dê nem estrelas nem vitórias e ela se recuperará em seu próximo turno.
+descr=Sua unidade ganha +2 de ATK durante esta batalha.\nCaso você seja nocauteado nesta batalha, não dê nem estrelas nem vitórias e você se recupera no seu próximo turno.
 flavor="MODO HIPER!" ―QP
 
 < CARD_HYPER_TOMOMO >
