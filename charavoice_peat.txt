@@ -46,7 +46,7 @@
 <0044> Cara, preciso de novas placas de metal...
 <0045> Lute comigo!
 <0046> Irei te derrubar!
-<0047> Alvo adiquirido!
+<0047> Alvo adquirido!
 <0048> Estou atrás de você!
 <0049> Estou preparado para interceptar!
 <0050> Certo!
