@@ -1,4 +1,4 @@
-﻿	
+	
 < CARD_BOOST_AMBUSH >
 name=Emboscada
 descr=Inicia uma batalha com todos os jogadores no mesmo painel que você.\nSeu turno acaba após as batalhas.
@@ -51,7 +51,7 @@ flavor="Uma força que parece uma fenda entre dimensões... parece que esse fen�
 
 < CARD_EVENT_SOLICITATION >
 name=Solicitação Assustadora
-descr=Todos os jogadores exceto o que jogou esta carta devem comprar cartas pagando 15 estrelas por cada, até sua mão ficar cheia.
+descr=Todos os jogadores exceto o que jogou esta carta compram cartas até sua mão ficar cheia.\nJogadores pagam 15 estrelas por cada carta comprada.
 flavor="Você irá comprar, claro. Você irá comprar. Não vai?" ―Mercador
 
 < CARD_BATTLE_ACCELHYPER >
@@ -106,7 +106,7 @@ flavor="Uma luz capaz de queimar toda a cidade... até o planeta... Posso dizer 
 
 < CARD_GIFT_UNLUCKYCHARM >
 name=Amuleto do Azar
-descr=★Custo: Seu Nível x5.\nTodo início de seu turno, perca estrelas igual ao seu nível x1.\nUsar esta carta irá mandá-la para outro jogador.\nSe o custo desta carta for maior que a quantidade de estrelas que você atualmente possui, ela pode ser usada sem custo.
+descr=★Custo: Seu Nível x5.\nTodo início de seu turno, perca estrelas igual ao seu nível x1.\nAo usar esta carta ela irá para outro jogador.\nSe o custo desta carta for maior que a quantidade de estrelas que você atualmente possui, ela pode ser usada sem custo.
 flavor="A escuridão total perturba meu sono, por isto anseio por luz..." ―Krilalaris
 
 < CARD_GIFT_WINDYENCHANTMENT >
@@ -136,7 +136,7 @@ flavor="Isso pede uma boa distração..." ―Kyousuke
 
 < CARD_HYPER_KAE >
 name=Ardente em Chamas!
-descr=Inflinge "Ardente" em unidades neste e em até 2 painéis adjacentes.\nDuração do Efeito: 3 capítulos.\nGanhe +1 ATK e -1 DEF que se acumulam a cada uso da carta.\nUsar esta carta também reinicia a duração do efeito. 
+descr=Inflinge "Ardente em Chamas!" em unidades neste e em até 2 painéis adjacentes.\nDuração do Efeito: 3 capítulos.\nGanhe +1 ATK e -1 DEF que se acumulam a cada uso da carta.\nUsar esta carta também reinicia a duração do efeito. 
 flavor="Ótimo! Ótimo! Esta sensação realmente é a melhor!" ―Kae
 
 < CARD_HYPER_KRILA >
@@ -165,7 +165,7 @@ descr=Todas as outras unidades recebem o seguinte efeito até seu próximo turno
 flavor="Se você insiste em ficar aqui, te levarei de volta não importa como!" ―Sham
 
 < CARD_HYPER_SHERRY >
-name=Moinho de Vento Caprichoso
+name=Ventania das Rosas
 descr=Lute com todos os jogadores em ordem.\nSeus oponentes sempre atacarão primeiro.\nDurante a batalha, Ganhe +1 EVD.
 flavor="Nós só queremos voar por aí livremente." ―Sherry
 
@@ -182,7 +182,7 @@ flavor="Por que eu sou Star Breaker, o fusível explosivo para o fim do mundo." 
 < CARD_HYPER_SWEETBREAKER >
 name=Memórias em Derretimento
 descr=★Custo: Número de cartas nas mãos dos outros jogadores x5.\nTodos os jogadores descartam uma carta aleatória e compram uma nova.\nA mão então é embaralhada e as cartas ficam invertidas. 
-flavor="Que idiotice você ter desafiado um deus. Prepare-se para sofrer uma derrota não tão doce!" ―Sweet Breaker
+flavor="Que tolice a sua você ter desafiado um deus. Prepare-se para experimentar uma derrota bem amarga!" ―Sweet Breaker
 
 < CARD_HYPER_QPD >
 name=Guardiã dos Doces
@@ -196,7 +196,7 @@ flavor="Começarei... minha operação agora." ―Sora
 
 < CARD_HYPER_MIXEDPOPPO >
 name=Túnel Sub-Espacial
-descr=★Custo: Seu Nível x5.\nDuração do Efeito: Igual ao Nível do Jogador.\nMude 4-6 painéis para painéis de "warp + move" então teleporte para um deles.
+descr=★Custo: Seu Nível x5.\nDuração do Efeito: Igual ao Nível do Jogador que usou esta carta.\nMude 4-6 painéis para painéis de "warp + move" então teleporte para um deles.
 flavor="Po! Po! Po! Popoppo!!" ―Marie Poppo
 
 < CARD_HYPER_ARUSCRAMBLE >
@@ -216,7 +216,7 @@ flavor="Tema as travessuras de Mimyuu." ―Mimyuu
 
 < CARD_HYPER_MIMYUU2 >
 name=Espionagem Maligna ― Execução
-descr=Esta carta não pode ser usada.\nEnquanto segurar esta carta, receba 3 de dano no final de seu turno e remova a carta do jogo.
+descr=Esta carta não pode ser usada.\nNo término de seu turno sua unidade recebe 3 de dano.\nEsta carta então é removida de jogo.
 flavor="Você caiu nela! Tome isso!!!" ―Mimyuu
 
 < CARD_HYPER_TOMATO >
@@ -231,7 +231,7 @@ flavor="Fique parado aí, Vou te consertar bem rapidinho." ―Kiriko
 
 < CARD_HYPER_NONAME >
 name=Supervisor
-descr=Um chefe aparece.\nCaso já exista um chefe em campo, esta carta pode ser usada em batalha com o seguinte efeito:\nEncerre esta batalha e o oponente luta com o chefe no lugar. O chefe atacará primeiro.\nEste efeito sempre ocorrerá primeiro nas batalhas.
+descr=Um chefe aparece.\nCaso já exista um chefe em campo, esta carta pode ser usada em batalha com o seguinte efeito:\nEncerre esta batalha e o oponente luta com o chefe no lugar. O chefe atacará primeiro.\nEste efeito sempre ocorrerá primeiro nas batalhas e só pode ser usado contra jogadores.
 flavor="Hahaha! Aí vem meu amigo!" ―NoName
 
 < CARD_HYPER_CEOREPARQUE >
