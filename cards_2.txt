@@ -360,7 +360,7 @@ descr=Durante esta batalha, o dano causado por ambas as unidades será dobrado.
 flavor="KUEEEE" ―Jonathan
 
 < CARD_SUMMER2018_PROTECT >
-name=Proteger
+name=Proteção
 descr=
 flavor=
 
