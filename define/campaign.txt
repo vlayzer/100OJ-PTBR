@@ -84,7 +84,7 @@ Crepúsculo dos Pilotos
 A Misteriosa Odisséia Espacial 
 
 < CAMPAIGN_EXTRA_FIVE >
-Inferno de Tomomo
+O Inferno de Tomomo
 
 < CAMPAIGN_STARBREAKER_ONE >
 Episódio da Star Breaker #1
