@@ -36,7 +36,7 @@
 <0034> Me sinto mais quente.
 <0035> Eu me recuperei.
 <0036> Muito bom.
-<0037> Estou sendo assoprada para longe.
+<0037> Estou sendo mandada para longe..
 <0038> Para onde estou indo?
 <0039> Estou voando.
 <0040> Teleportando.
