@@ -129,7 +129,7 @@
 <0127> Olá!
 <0128> Hmm...
 <0129> Isso é ótimo!
-<0130> Isso é incrivel!
+<0130> Isso é incrível!
 <0131> Poxa...
 <0132> Deixe-me pegar isto emprestado!
 <0133> Que tipo de poder isto tem?
