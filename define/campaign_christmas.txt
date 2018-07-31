@@ -1,6 +1,6 @@
 
 <0000> "É natal! <player>!"
-<0001> "Crianças de todo o mundo estão ansiosamente esperando por seus presentes."
+<0001> "Crianças de todo o mundo estão ansiosas esperando por seus presentes."
 <0002> "Deu bastante trabalho preparar tudo, mas ver os sorrisos tão aconchegantes faz tudo valer a pena."
 <0003> "Mas é claro que você vai ganhar um presente também, aqui, escolha qualquer um."
 <0004> "Prontinho! Gostou?"
