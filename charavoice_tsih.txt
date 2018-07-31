@@ -15,7 +15,7 @@
 <0013> Vou chutar sua bunda bem forte!
 <0014> Acabarei com você.
 <0015> Estou aumentando meus poderes.
-<0016> Vou quietamente ficar invsível.
+<0016> Vou quietamente ficar invisível.
 <0017> Estou de volta.
 <0018> Não posso pensar em perder.
 <0019> Nyafufu! Você ainda não acabou comigo.
@@ -25,7 +25,7 @@
 <0023> Mas que droga.
 <0024> Pigyah!
 <0025> Ataque!
-<0026> Assiim!
+<0026> Assim!
 <0027> Uryaah!
 <0028> Tome isso!
 <0029> Ai-ai-ai!
